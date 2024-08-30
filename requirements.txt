@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+plotly
+scikit-learn
+Pillow
+statsmodels
+prophet
+joblib
+yfinance
+Faker
+networkx
+requests
