@@ -1,0 +1,1001 @@
+timestamp,category,urgency,department,resolution_time,status,sentiment_score
+2024-08-24 16:36:31.686173,Cleanliness,Medium,Catering,18,Resolved,0.19601823465749924
+2024-08-11 16:36:31.686215,Delay,High,Maintenance,19,Pending,-0.22979479435394068
+2024-08-02 16:36:31.686218,Cleanliness,High,Maintenance,55,In Progress,0.7096115575985229
+2024-08-16 16:36:31.686220,Cleanliness,Low,Customer Service,26,Resolved,0.9048306119932872
+2024-08-20 16:36:31.686222,Staff Behavior,Low,Housekeeping,6,In Progress,0.7671294567403808
+2024-08-23 16:36:31.686224,Delay,Medium,Operations,4,In Progress,-0.4587600106128067
+2024-08-02 16:36:31.686226,Delay,High,Catering,29,In Progress,-0.6116742619078355
+2024-08-10 16:36:31.686228,Food Quality,High,Maintenance,59,Resolved,-0.051130212758530025
+2024-08-24 16:36:31.686230,Cleanliness,Low,Housekeeping,17,Pending,-0.9853316983276394
+2024-08-05 16:36:31.686232,Cleanliness,High,Customer Service,43,Resolved,-0.9483812142736365
+2024-08-12 16:36:31.686234,Damage,Low,Maintenance,66,In Progress,0.10658127924600014
+2024-08-08 16:36:31.686235,Food Quality,Medium,Customer Service,34,In Progress,0.04089880833057191
+2024-08-20 16:36:31.686237,Damage,Low,Catering,8,Pending,0.9891639780705199
+2024-08-20 16:36:31.686239,Damage,High,Operations,13,Resolved,-0.5963163292724838
+2024-08-07 16:36:31.686240,Damage,Medium,Maintenance,8,In Progress,-0.48379214167906315
+2024-08-10 16:36:31.686242,Staff Behavior,Low,Maintenance,65,Pending,-0.7729187153474266
+2024-08-27 16:36:31.686243,Staff Behavior,Low,Catering,43,In Progress,0.8350860193074894
+2024-08-23 16:36:31.686245,Damage,Medium,Housekeeping,39,Pending,0.5556224889169015
+2024-08-07 16:36:31.686246,Food Quality,Medium,Operations,59,Pending,0.6446782229136949
+2024-08-28 16:36:31.686248,Cleanliness,Low,Maintenance,44,Resolved,0.8055275759290175
+2024-08-09 16:36:31.686250,Food Quality,High,Operations,9,In Progress,0.04979997345167653
+2024-08-10 16:36:31.686251,Delay,Low,Maintenance,37,Resolved,-0.09761361709855265
+2024-08-29 16:36:31.686253,Staff Behavior,Medium,Operations,36,In Progress,-0.339217052668767
+2024-08-07 16:36:31.686254,Cleanliness,Low,Customer Service,28,Resolved,0.17842922869571098
+2024-08-19 16:36:31.686256,Cleanliness,Medium,Maintenance,42,In Progress,-0.09144320642035497
+2024-08-01 16:36:31.686257,Delay,Medium,Operations,43,Resolved,-0.09686882678884978
+2024-08-25 16:36:31.686259,Delay,High,Housekeeping,42,Pending,0.8738557274622778
+2024-08-29 16:36:31.686260,Damage,Medium,Customer Service,66,In Progress,0.9680630285582603
+2024-08-03 16:36:31.686262,Staff Behavior,Medium,Customer Service,55,In Progress,0.5929687786591615
+2024-08-10 16:36:31.686264,Staff Behavior,High,Housekeeping,48,Pending,0.5135161804938566
+2024-08-30 16:36:31.686265,Food Quality,Medium,Operations,22,Resolved,0.3611163235582029
+2024-08-19 16:36:31.686267,Damage,High,Catering,27,In Progress,-0.6678502953329726
+2024-08-05 16:36:31.686268,Damage,High,Housekeeping,67,In Progress,-0.881788358248691
+2024-08-09 16:36:31.686270,Damage,Medium,Operations,13,Resolved,0.3814526302265262
+2024-08-02 16:36:31.686272,Damage,Medium,Housekeeping,45,Pending,0.45757244451315193
+2024-08-19 16:36:31.686273,Staff Behavior,Low,Housekeeping,10,Resolved,-0.9060540178037204
+2024-08-06 16:36:31.686275,Staff Behavior,High,Maintenance,9,Resolved,0.8561035004576962
+2024-08-14 16:36:31.686276,Damage,Low,Operations,54,Resolved,-0.8177187211106449
+2024-08-04 16:36:31.686278,Food Quality,Medium,Catering,27,In Progress,-0.4281989324575952
+2024-08-04 16:36:31.686279,Cleanliness,Low,Maintenance,34,Pending,0.34477962559740893
+2024-08-21 16:36:31.686281,Cleanliness,High,Housekeeping,1,Pending,-0.6602548111910473
+2024-08-03 16:36:31.686283,Food Quality,Low,Housekeeping,32,Resolved,-0.8891682231155111
+2024-08-03 16:36:31.686284,Damage,High,Housekeeping,71,In Progress,-0.3377070216717004
+2024-08-15 16:36:31.686286,Staff Behavior,Medium,Operations,67,Resolved,0.5319431497103582
+2024-08-16 16:36:31.686287,Cleanliness,Medium,Operations,20,In Progress,-0.17264264202947932
+2024-08-01 16:36:31.686289,Delay,High,Maintenance,35,In Progress,0.30594584381587864
+2024-08-01 16:36:31.686290,Delay,Medium,Catering,17,In Progress,0.1592381944562733
+2024-08-16 16:36:31.686292,Food Quality,Medium,Maintenance,18,In Progress,-0.9555630359488392
+2024-08-01 16:36:31.686293,Damage,Medium,Customer Service,45,Pending,0.9770799740914133
+2024-08-12 16:36:31.686295,Cleanliness,Medium,Housekeeping,53,In Progress,-0.9171438223612245
+2024-08-19 16:36:31.686296,Damage,High,Housekeeping,68,In Progress,0.93560547529697
+2024-08-08 16:36:31.686298,Cleanliness,Low,Housekeeping,65,Resolved,0.09972835672879632
+2024-08-11 16:36:31.686299,Food Quality,Low,Maintenance,1,Resolved,0.926318054130133
+2024-08-06 16:36:31.686301,Food Quality,Medium,Maintenance,58,Pending,-0.7704928011723291
+2024-08-28 16:36:31.686303,Delay,Low,Housekeeping,26,Resolved,-0.019182961628973594
+2024-08-26 16:36:31.686304,Damage,Low,Maintenance,20,In Progress,-0.6609918162678827
+2024-08-12 16:36:31.686306,Delay,Medium,Operations,10,Resolved,-0.8980502459551152
+2024-08-24 16:36:31.686307,Damage,Medium,Operations,59,Pending,0.23505823012462312
+2024-08-10 16:36:31.686309,Delay,Low,Maintenance,41,Resolved,-0.5844331580766171
+2024-08-22 16:36:31.686310,Staff Behavior,High,Housekeeping,5,Resolved,0.1753940365750919
+2024-08-24 16:36:31.686312,Staff Behavior,Medium,Maintenance,65,Pending,-0.7752710361020287
+2024-08-13 16:36:31.686313,Staff Behavior,High,Maintenance,17,Pending,-0.33602705713459446
+2024-08-27 16:36:31.686315,Staff Behavior,Low,Maintenance,22,In Progress,0.5632651161064943
+2024-08-06 16:36:31.686316,Cleanliness,Medium,Customer Service,41,Resolved,-0.1258969563156247
+2024-08-03 16:36:31.686318,Staff Behavior,High,Operations,68,In Progress,0.25549082979467275
+2024-08-17 16:36:31.686320,Food Quality,Medium,Catering,69,Resolved,0.29491588149109194
+2024-08-13 16:36:31.686321,Food Quality,Low,Catering,11,Resolved,0.6875100879745872
+2024-08-05 16:36:31.686323,Cleanliness,High,Customer Service,56,In Progress,-0.3501544111867174
+2024-08-22 16:36:31.686324,Staff Behavior,Low,Maintenance,51,Resolved,0.3745911251650351
+2024-08-05 16:36:31.686326,Staff Behavior,Low,Customer Service,21,Resolved,0.9232316140923313
+2024-08-10 16:36:31.686328,Staff Behavior,Medium,Customer Service,26,Resolved,0.46048666871573607
+2024-08-29 16:36:31.686334,Delay,High,Housekeeping,19,Pending,-0.02025904656451094
+2024-08-11 16:36:31.686336,Damage,Low,Operations,60,In Progress,0.26143488898385847
+2024-08-03 16:36:31.686337,Delay,Low,Catering,71,Pending,0.4793657955262163
+2024-08-16 16:36:31.686339,Damage,High,Maintenance,47,In Progress,0.22455153138774486
+2024-08-03 16:36:31.686340,Staff Behavior,Low,Catering,71,In Progress,-0.9666483730203217
+2024-08-24 16:36:31.686342,Staff Behavior,Low,Catering,26,Resolved,-0.6104530046255483
+2024-08-19 16:36:31.686344,Delay,High,Operations,40,In Progress,0.620936434430932
+2024-08-02 16:36:31.686346,Delay,High,Catering,5,Pending,-0.45469870537503065
+2024-08-23 16:36:31.686347,Damage,High,Catering,21,Pending,0.46312423912226786
+2024-08-16 16:36:31.686349,Food Quality,High,Customer Service,4,Pending,-0.2557595695166026
+2024-08-28 16:36:31.686350,Damage,Medium,Operations,23,In Progress,0.043768656315886334
+2024-08-17 16:36:31.686352,Delay,High,Housekeeping,15,Pending,-0.8640534003611926
+2024-08-14 16:36:31.686353,Delay,Medium,Maintenance,8,In Progress,-0.6375488779005809
+2024-08-27 16:36:31.686355,Cleanliness,Medium,Catering,41,Pending,0.9143939270384691
+2024-08-13 16:36:31.686356,Delay,Medium,Maintenance,19,Pending,0.780276106893828
+2024-08-23 16:36:31.686358,Cleanliness,Low,Housekeeping,46,In Progress,0.30455022179810043
+2024-08-27 16:36:31.686359,Food Quality,Medium,Maintenance,28,Pending,-0.08071080522852525
+2024-08-29 16:36:31.686361,Damage,Medium,Housekeeping,68,Resolved,0.3515225857904476
+2024-08-01 16:36:31.686362,Damage,Low,Customer Service,15,In Progress,0.237220578187878
+2024-08-25 16:36:31.686364,Cleanliness,Low,Catering,37,In Progress,0.13710451120922418
+2024-08-09 16:36:31.686365,Damage,Low,Housekeeping,1,In Progress,-0.8816458562729164
+2024-08-21 16:36:31.686367,Delay,High,Maintenance,67,Resolved,0.2656052213230138
+2024-08-27 16:36:31.686369,Staff Behavior,Low,Catering,24,In Progress,0.5378400891423367
+2024-08-09 16:36:31.686370,Cleanliness,Low,Customer Service,27,Pending,0.988163309291151
+2024-08-02 16:36:31.686372,Damage,Medium,Catering,40,Pending,-0.9778428948113806
+2024-08-13 16:36:31.686373,Cleanliness,Low,Housekeeping,63,Pending,0.46034690662135325
+2024-08-05 16:36:31.686375,Cleanliness,High,Customer Service,61,In Progress,0.14357863187196096
+2024-08-19 16:36:31.686376,Staff Behavior,Low,Maintenance,36,Pending,-0.1318956478380866
+2024-08-29 16:36:31.686378,Delay,High,Customer Service,24,In Progress,-0.7448596508572582
+2024-08-21 16:36:31.686379,Cleanliness,Low,Customer Service,24,Pending,-0.18182970273024757
+2024-08-01 16:36:31.686381,Damage,Low,Operations,4,Resolved,-0.2912456340277294
+2024-08-27 16:36:31.686382,Food Quality,Low,Customer Service,67,Resolved,-0.3943402220425156
+2024-08-17 16:36:31.686384,Cleanliness,Low,Customer Service,34,Resolved,0.46175924664441537
+2024-08-15 16:36:31.686385,Cleanliness,High,Catering,57,Resolved,0.4014510425685276
+2024-08-16 16:36:31.686387,Staff Behavior,High,Maintenance,49,In Progress,0.17804018196182314
+2024-08-23 16:36:31.686388,Delay,Medium,Catering,53,Pending,0.8773296265867445
+2024-08-17 16:36:31.686390,Food Quality,High,Catering,23,Resolved,-0.3002912316382911
+2024-08-08 16:36:31.686391,Damage,Low,Housekeeping,69,In Progress,-0.5123961245796409
+2024-08-03 16:36:31.686393,Food Quality,Medium,Catering,53,Resolved,0.3118066261967991
+2024-08-06 16:36:31.686395,Damage,Medium,Operations,62,Resolved,-0.6023718781251941
+2024-08-01 16:36:31.686396,Delay,Medium,Operations,41,In Progress,-0.3699789856331508
+2024-08-23 16:36:31.686398,Damage,Low,Housekeeping,57,In Progress,-0.5507951198502303
+2024-08-10 16:36:31.686399,Staff Behavior,High,Maintenance,60,Pending,-0.8616928645629975
+2024-08-15 16:36:31.686401,Staff Behavior,Low,Maintenance,54,Pending,0.6549974832713468
+2024-08-18 16:36:31.686402,Staff Behavior,Medium,Catering,70,Resolved,-0.49091891415667765
+2024-08-13 16:36:31.686404,Staff Behavior,Low,Catering,57,Resolved,-0.053944993313958634
+2024-08-16 16:36:31.686405,Food Quality,Low,Catering,10,Pending,-0.9133694534913761
+2024-08-10 16:36:31.686407,Delay,High,Maintenance,40,Pending,0.3986789325052862
+2024-08-07 16:36:31.686408,Damage,High,Customer Service,7,In Progress,-0.33887799538741836
+2024-08-05 16:36:31.686410,Damage,Medium,Operations,38,Pending,0.48947345565841993
+2024-08-06 16:36:31.686411,Staff Behavior,Low,Customer Service,61,Pending,-0.17519387906426775
+2024-08-03 16:36:31.686413,Staff Behavior,Low,Customer Service,3,Resolved,-0.6084887871887508
+2024-08-03 16:36:31.686414,Cleanliness,High,Maintenance,51,Pending,0.0263501645640718
+2024-08-03 16:36:31.686416,Delay,Low,Customer Service,47,Resolved,-0.7389908807251204
+2024-08-18 16:36:31.686417,Food Quality,Low,Housekeeping,68,Pending,-0.11892168025401051
+2024-08-22 16:36:31.686419,Damage,Low,Catering,38,In Progress,-0.3653890451590269
+2024-08-02 16:36:31.686420,Cleanliness,High,Housekeeping,36,Pending,0.8239191683992664
+2024-08-16 16:36:31.686422,Cleanliness,Medium,Operations,41,Pending,-0.8781425565585601
+2024-08-18 16:36:31.686424,Damage,Medium,Catering,69,Pending,0.38803482821148405
+2024-08-30 16:36:31.686425,Food Quality,Low,Customer Service,13,Resolved,-0.6344976680251282
+2024-08-06 16:36:31.686427,Cleanliness,Medium,Operations,58,In Progress,-0.36190985133552034
+2024-08-24 16:36:31.686428,Cleanliness,High,Catering,50,Pending,-0.1689718738758681
+2024-08-22 16:36:31.686430,Delay,High,Customer Service,30,Resolved,0.8160301787499484
+2024-08-07 16:36:31.686431,Food Quality,Medium,Housekeeping,62,In Progress,-0.5148434678523497
+2024-08-30 16:36:31.686433,Cleanliness,Medium,Catering,25,Resolved,-0.8173823949106596
+2024-08-19 16:36:31.686435,Food Quality,Low,Customer Service,27,Resolved,-0.3626207920189528
+2024-08-23 16:36:31.686436,Damage,Medium,Housekeeping,51,In Progress,-0.7906480589289333
+2024-08-07 16:36:31.686438,Staff Behavior,Low,Operations,57,Pending,-0.742807028078895
+2024-08-20 16:36:31.686439,Cleanliness,Low,Operations,47,Resolved,0.14770119595005338
+2024-08-12 16:36:31.686441,Delay,High,Operations,39,Resolved,-0.8781961338010134
+2024-08-14 16:36:31.686442,Damage,High,Operations,16,Pending,-0.9381382372128679
+2024-08-23 16:36:31.686444,Food Quality,High,Maintenance,22,Pending,0.42882820294099555
+2024-08-28 16:36:31.686445,Damage,High,Catering,54,In Progress,-0.27670581031791097
+2024-08-28 16:36:31.686447,Cleanliness,Medium,Catering,21,In Progress,-0.7492493015322534
+2024-08-30 16:36:31.686448,Food Quality,High,Maintenance,16,In Progress,-0.4927744582805835
+2024-08-04 16:36:31.686450,Staff Behavior,Medium,Customer Service,59,Pending,0.28417301470479805
+2024-08-26 16:36:31.686451,Damage,High,Customer Service,31,Resolved,-0.44892686571829765
+2024-08-21 16:36:31.686453,Cleanliness,Medium,Operations,42,Resolved,-0.010957749759184177
+2024-08-24 16:36:31.686455,Delay,Low,Housekeeping,32,In Progress,-0.7566093865466554
+2024-08-05 16:36:31.686456,Food Quality,Medium,Customer Service,59,Pending,0.17618727521089395
+2024-08-22 16:36:31.686458,Damage,Medium,Housekeeping,34,Resolved,-0.36784463231347186
+2024-08-03 16:36:31.686459,Damage,High,Catering,9,In Progress,0.25393686905743307
+2024-08-24 16:36:31.686461,Staff Behavior,Medium,Housekeeping,11,Resolved,0.6167897646080458
+2024-08-22 16:36:31.686462,Staff Behavior,Low,Catering,10,Resolved,0.22329283877998485
+2024-08-23 16:36:31.686464,Delay,Low,Maintenance,17,Pending,-0.4085048748099587
+2024-08-19 16:36:31.686465,Delay,High,Maintenance,68,Pending,-0.4885125969033992
+2024-08-29 16:36:31.686467,Cleanliness,Low,Operations,48,Resolved,-0.345158082533104
+2024-08-30 16:36:31.686468,Cleanliness,Medium,Customer Service,52,In Progress,-0.6707589735269903
+2024-08-15 16:36:31.686470,Delay,Low,Operations,25,Pending,-0.6376562982999598
+2024-08-08 16:36:31.686471,Delay,High,Catering,21,Resolved,0.5813822038003358
+2024-08-08 16:36:31.686473,Food Quality,Medium,Operations,65,Pending,-0.23053484698511006
+2024-08-01 16:36:31.686474,Staff Behavior,High,Housekeeping,63,Pending,-0.12800963885882832
+2024-08-07 16:36:31.686476,Cleanliness,Medium,Catering,51,Pending,0.1880989311336223
+2024-08-26 16:36:31.686477,Staff Behavior,Low,Maintenance,36,Resolved,0.17930699030309527
+2024-08-28 16:36:31.686479,Staff Behavior,High,Customer Service,66,In Progress,-0.8652462569561485
+2024-08-19 16:36:31.686480,Delay,High,Catering,15,In Progress,0.6630815726753312
+2024-08-23 16:36:31.686482,Food Quality,Medium,Catering,39,In Progress,-0.6453468935521212
+2024-08-09 16:36:31.686484,Damage,High,Housekeeping,70,Pending,0.4461432720993377
+2024-08-04 16:36:31.686485,Food Quality,Medium,Customer Service,1,Resolved,0.5453419762563332
+2024-08-28 16:36:31.686487,Food Quality,Medium,Maintenance,23,Pending,0.42979906818262736
+2024-08-30 16:36:31.686488,Staff Behavior,Medium,Catering,39,In Progress,0.15795529310829037
+2024-08-28 16:36:31.686490,Food Quality,Medium,Catering,57,In Progress,-0.9707820057822343
+2024-08-26 16:36:31.686492,Cleanliness,Low,Housekeeping,34,Resolved,-0.27924901527365864
+2024-08-16 16:36:31.686493,Staff Behavior,Medium,Operations,41,Pending,0.20967885872516234
+2024-08-17 16:36:31.686495,Cleanliness,High,Maintenance,13,In Progress,-0.22509740815492263
+2024-08-28 16:36:31.686496,Damage,Low,Customer Service,70,Resolved,0.7269597898256261
+2024-08-30 16:36:31.686498,Staff Behavior,High,Catering,6,Pending,-0.3823954493007693
+2024-08-26 16:36:31.686499,Damage,Low,Catering,52,Pending,-0.41293041508267914
+2024-08-05 16:36:31.686501,Staff Behavior,Medium,Maintenance,3,In Progress,-0.46800461381468406
+2024-08-08 16:36:31.686502,Delay,Low,Operations,63,In Progress,-0.334438262078409
+2024-08-17 16:36:31.686504,Food Quality,Low,Catering,49,Pending,0.11480992862837436
+2024-08-24 16:36:31.686505,Delay,High,Maintenance,47,Pending,0.4140305885451816
+2024-08-04 16:36:31.686507,Damage,High,Housekeeping,55,In Progress,0.3251358354775702
+2024-08-22 16:36:31.686508,Food Quality,Medium,Operations,64,Pending,0.6154356399629592
+2024-08-16 16:36:31.686510,Staff Behavior,Low,Customer Service,65,In Progress,0.7718279909948498
+2024-08-16 16:36:31.686511,Food Quality,Low,Catering,67,Pending,0.6321580846867025
+2024-08-05 16:36:31.686513,Cleanliness,Low,Maintenance,15,In Progress,-0.9621091932512909
+2024-08-21 16:36:31.686515,Food Quality,Medium,Housekeeping,32,Resolved,0.4718359071039775
+2024-08-03 16:36:31.686516,Cleanliness,Medium,Customer Service,68,In Progress,-0.5832008527633368
+2024-08-18 16:36:31.686517,Food Quality,Medium,Maintenance,18,In Progress,-0.7341439145840347
+2024-08-12 16:36:31.686519,Cleanliness,Medium,Maintenance,43,Resolved,0.276977569598271
+2024-08-24 16:36:31.686520,Damage,Medium,Customer Service,35,Pending,-0.3605136091846102
+2024-08-14 16:36:31.686522,Delay,High,Housekeeping,58,Resolved,-0.8857656732591135
+2024-08-11 16:36:31.686523,Staff Behavior,Low,Housekeeping,33,In Progress,-0.7247405312032773
+2024-08-02 16:36:31.686525,Food Quality,Low,Operations,14,Pending,-0.9981411662600779
+2024-08-27 16:36:31.686526,Delay,Low,Catering,34,Resolved,0.8064472546894146
+2024-08-01 16:36:31.686528,Staff Behavior,Low,Customer Service,61,Pending,-0.9507640323175228
+2024-08-26 16:36:31.686529,Staff Behavior,Low,Customer Service,4,Pending,-0.5810884609809779
+2024-08-08 16:36:31.686530,Cleanliness,Low,Customer Service,59,Resolved,-0.16747443862418532
+2024-08-24 16:36:31.686532,Damage,Low,Housekeeping,29,Pending,-0.28685734809836183
+2024-08-18 16:36:31.686533,Damage,Low,Catering,6,Resolved,0.8234517538255515
+2024-08-16 16:36:31.686535,Delay,High,Operations,49,In Progress,-0.9194221085309158
+2024-08-20 16:36:31.686536,Damage,Low,Maintenance,40,Pending,0.024429415354103146
+2024-08-02 16:36:31.686538,Food Quality,High,Maintenance,65,In Progress,0.36095892504874794
+2024-08-27 16:36:31.686539,Damage,Medium,Customer Service,69,In Progress,0.8633959473623376
+2024-08-18 16:36:31.686541,Delay,Low,Catering,27,Pending,0.24074250424744204
+2024-08-24 16:36:31.686542,Damage,Medium,Housekeeping,6,Resolved,0.6075104720235254
+2024-08-04 16:36:31.686543,Food Quality,Medium,Catering,13,Pending,-0.8325501243093032
+2024-08-12 16:36:31.686545,Cleanliness,Medium,Catering,64,In Progress,-0.2281209781261453
+2024-08-09 16:36:31.686546,Delay,High,Housekeeping,62,In Progress,-0.25210573104186507
+2024-08-03 16:36:31.686548,Cleanliness,Medium,Customer Service,19,Resolved,0.7725764329114353
+2024-08-29 16:36:31.686549,Cleanliness,Medium,Catering,43,Pending,-0.6972576574734501
+2024-08-21 16:36:31.686551,Cleanliness,Medium,Maintenance,20,In Progress,-0.6962276553267395
+2024-08-18 16:36:31.686552,Staff Behavior,Low,Housekeeping,68,In Progress,-0.3428837002284031
+2024-08-01 16:36:31.686553,Staff Behavior,Low,Operations,44,In Progress,-0.8910679052663248
+2024-08-06 16:36:31.686555,Cleanliness,High,Customer Service,23,Resolved,-0.6350839186950199
+2024-08-10 16:36:31.686556,Delay,High,Housekeeping,2,In Progress,0.9304192770914703
+2024-08-25 16:36:31.686558,Food Quality,Low,Operations,22,In Progress,-0.1436321202656543
+2024-08-03 16:36:31.686559,Food Quality,High,Operations,57,Pending,0.26403841684487284
+2024-08-03 16:36:31.686560,Damage,Low,Catering,7,Pending,0.4522225186892739
+2024-08-19 16:36:31.686562,Delay,Medium,Catering,56,In Progress,-0.26607718598559904
+2024-08-19 16:36:31.686563,Staff Behavior,Medium,Catering,67,In Progress,-0.7055458511789661
+2024-08-11 16:36:31.686565,Cleanliness,High,Housekeeping,16,Pending,-0.5868379675564384
+2024-08-01 16:36:31.686566,Damage,Low,Housekeeping,51,Resolved,-0.3734670468387793
+2024-08-01 16:36:31.686568,Food Quality,Low,Customer Service,12,Resolved,0.2721368407044513
+2024-08-20 16:36:31.686569,Staff Behavior,High,Catering,53,Resolved,-0.20343890182189117
+2024-08-05 16:36:31.686570,Staff Behavior,Low,Operations,5,Resolved,-0.9863706041997438
+2024-08-08 16:36:31.686572,Cleanliness,Medium,Maintenance,27,Resolved,0.04681437013494372
+2024-08-03 16:36:31.686573,Food Quality,High,Customer Service,12,Resolved,0.8430267838148358
+2024-08-06 16:36:31.686575,Delay,High,Housekeeping,17,Resolved,0.6241552220173581
+2024-08-24 16:36:31.686576,Staff Behavior,Low,Customer Service,6,Resolved,0.6504227425192621
+2024-08-01 16:36:31.686578,Cleanliness,High,Customer Service,5,Pending,0.5901160352122623
+2024-08-30 16:36:31.686579,Delay,Low,Customer Service,57,Resolved,-0.3525383487791527
+2024-08-30 16:36:31.686581,Food Quality,Low,Customer Service,28,Resolved,0.530387667508784
+2024-08-06 16:36:31.686582,Staff Behavior,Low,Maintenance,69,Resolved,-0.713677284377614
+2024-08-04 16:36:31.686584,Delay,Low,Catering,59,In Progress,0.315432294551907
+2024-08-01 16:36:31.686585,Delay,Low,Operations,33,Pending,0.2831371333699888
+2024-08-06 16:36:31.686586,Delay,High,Customer Service,62,Pending,-0.9488604018205307
+2024-08-11 16:36:31.686588,Staff Behavior,Medium,Customer Service,50,Pending,0.5759402671818632
+2024-08-18 16:36:31.686589,Staff Behavior,Medium,Customer Service,19,Resolved,0.8064962101902611
+2024-08-22 16:36:31.686591,Damage,High,Catering,69,Resolved,-0.46516944305578467
+2024-08-28 16:36:31.686592,Food Quality,High,Housekeeping,66,In Progress,0.6247814483723018
+2024-08-24 16:36:31.686593,Cleanliness,Medium,Housekeeping,47,Pending,-0.8351880562761036
+2024-08-25 16:36:31.686595,Delay,Medium,Maintenance,39,Resolved,0.19993571652213205
+2024-08-23 16:36:31.686596,Damage,Medium,Housekeeping,68,Pending,-0.02870626933144571
+2024-08-04 16:36:31.686598,Cleanliness,Medium,Customer Service,33,In Progress,0.09184706661800002
+2024-08-22 16:36:31.686599,Damage,Medium,Customer Service,13,In Progress,0.8524104037686902
+2024-08-01 16:36:31.686601,Staff Behavior,Low,Customer Service,54,In Progress,0.742630494493707
+2024-08-26 16:36:31.686602,Delay,High,Maintenance,7,Pending,0.5701673144795141
+2024-08-30 16:36:31.686603,Cleanliness,Low,Customer Service,14,Resolved,-0.45260308464325805
+2024-08-12 16:36:31.686605,Cleanliness,Medium,Housekeeping,19,Resolved,0.8236372573721833
+2024-08-21 16:36:31.686606,Cleanliness,Medium,Catering,54,In Progress,-0.8049846150722495
+2024-08-19 16:36:31.686608,Cleanliness,Medium,Catering,20,Resolved,0.7066584331175756
+2024-08-07 16:36:31.686609,Cleanliness,Low,Operations,29,In Progress,-0.34367985529278444
+2024-08-16 16:36:31.686611,Damage,Low,Housekeeping,24,Pending,-0.8924553766760333
+2024-08-04 16:36:31.686612,Delay,Medium,Customer Service,63,In Progress,0.3387139684814966
+2024-08-09 16:36:31.686614,Staff Behavior,Low,Catering,57,Pending,-0.5374401433680891
+2024-08-07 16:36:31.686615,Staff Behavior,Low,Housekeeping,8,In Progress,-0.5128577482707362
+2024-08-22 16:36:31.686617,Staff Behavior,Medium,Catering,62,Resolved,-0.38790566754245703
+2024-08-11 16:36:31.686618,Staff Behavior,Low,Customer Service,29,Resolved,-0.8726304649949665
+2024-08-14 16:36:31.686619,Damage,High,Catering,17,In Progress,-0.6457457116034919
+2024-08-01 16:36:31.686621,Food Quality,High,Operations,66,Resolved,-0.9897207448288794
+2024-08-14 16:36:31.686622,Delay,High,Operations,6,Resolved,-0.1091809577884264
+2024-08-05 16:36:31.686624,Cleanliness,High,Catering,58,Resolved,-0.8314892451640574
+2024-08-11 16:36:31.686625,Food Quality,Medium,Housekeeping,69,Pending,0.365305210088398
+2024-08-19 16:36:31.686627,Staff Behavior,Medium,Housekeeping,28,Resolved,-0.5287542976167032
+2024-08-01 16:36:31.686628,Food Quality,Medium,Housekeeping,62,Pending,0.8871482880703543
+2024-08-24 16:36:31.686630,Delay,High,Catering,41,In Progress,0.7425032547973052
+2024-08-29 16:36:31.686631,Cleanliness,High,Housekeeping,69,Resolved,-0.4211182100635835
+2024-08-28 16:36:31.686632,Cleanliness,Low,Customer Service,41,Resolved,0.5664309093133575
+2024-08-14 16:36:31.686634,Delay,Low,Operations,49,Resolved,0.6064898093296125
+2024-08-26 16:36:31.686635,Delay,High,Customer Service,49,In Progress,0.9731262282288209
+2024-08-14 16:36:31.686637,Staff Behavior,High,Housekeeping,71,Pending,0.1956799736913699
+2024-08-07 16:36:31.686638,Cleanliness,High,Customer Service,3,Pending,-0.8360685307126756
+2024-08-14 16:36:31.686640,Food Quality,High,Housekeeping,10,Resolved,0.2936744578527619
+2024-08-04 16:36:31.686641,Damage,Low,Catering,35,In Progress,0.2499594967520704
+2024-08-14 16:36:31.686642,Damage,High,Customer Service,2,In Progress,0.27670115484086355
+2024-08-29 16:36:31.686644,Delay,Low,Catering,24,In Progress,-0.38570870379157696
+2024-08-29 16:36:31.686645,Staff Behavior,High,Catering,38,In Progress,0.7193591701606659
+2024-08-03 16:36:31.686647,Damage,High,Maintenance,22,In Progress,0.9189443659108238
+2024-08-09 16:36:31.686648,Cleanliness,High,Housekeeping,26,Pending,-0.5645749740436969
+2024-08-08 16:36:31.686650,Delay,Low,Operations,43,Pending,-0.8236956837267111
+2024-08-26 16:36:31.686651,Food Quality,Low,Housekeeping,55,Pending,-0.6109299336630318
+2024-08-30 16:36:31.686652,Delay,Medium,Operations,39,Resolved,0.6411042785114376
+2024-08-30 16:36:31.686654,Food Quality,High,Housekeeping,29,In Progress,0.353289269639695
+2024-08-12 16:36:31.686655,Delay,Medium,Catering,20,Resolved,0.27209468467825326
+2024-08-01 16:36:31.686657,Delay,Medium,Customer Service,41,In Progress,-0.19641372978115101
+2024-08-29 16:36:31.686658,Delay,Low,Customer Service,54,Pending,0.15565594302287145
+2024-08-10 16:36:31.686660,Food Quality,Low,Maintenance,20,Resolved,-0.38425174945126517
+2024-08-19 16:36:31.686661,Food Quality,Medium,Operations,19,Pending,-0.04559984116407745
+2024-08-05 16:36:31.686662,Delay,High,Operations,66,In Progress,0.5861260567413118
+2024-08-25 16:36:31.686664,Damage,Low,Operations,30,In Progress,0.9624831949109243
+2024-08-08 16:36:31.686665,Staff Behavior,High,Catering,53,In Progress,0.8649778471796037
+2024-08-27 16:36:31.686667,Staff Behavior,High,Operations,34,Pending,0.8677318856924976
+2024-08-08 16:36:31.686668,Staff Behavior,Medium,Customer Service,22,In Progress,-0.19555253030577524
+2024-08-20 16:36:31.686670,Food Quality,Medium,Catering,67,Pending,-0.06242023898641813
+2024-08-07 16:36:31.686671,Food Quality,Medium,Housekeeping,6,Resolved,0.4112707927379631
+2024-08-04 16:36:31.686673,Damage,Medium,Operations,27,In Progress,0.8443838561025685
+2024-08-14 16:36:31.686674,Staff Behavior,Low,Operations,10,In Progress,-0.7160114812958307
+2024-08-25 16:36:31.686675,Staff Behavior,Low,Housekeeping,48,In Progress,-0.3915162723456085
+2024-08-07 16:36:31.686677,Delay,Medium,Operations,70,Resolved,-0.721506310811781
+2024-08-26 16:36:31.686678,Food Quality,Low,Housekeeping,59,In Progress,0.22401705991891063
+2024-08-11 16:36:31.686680,Staff Behavior,Medium,Catering,59,Pending,-0.38739800622492493
+2024-08-29 16:36:31.686681,Damage,High,Customer Service,2,Pending,-0.3477842949748531
+2024-08-25 16:36:31.686683,Damage,High,Housekeeping,29,In Progress,-0.8581680810240415
+2024-08-09 16:36:31.686684,Staff Behavior,High,Maintenance,68,In Progress,-0.30040787638481614
+2024-08-20 16:36:31.686686,Food Quality,Medium,Housekeeping,65,Resolved,0.7249930148031707
+2024-08-15 16:36:31.686687,Damage,High,Operations,26,Resolved,-0.5338543762183301
+2024-08-15 16:36:31.686688,Delay,Low,Catering,10,Resolved,0.3903749324201313
+2024-08-30 16:36:31.686690,Damage,High,Catering,53,In Progress,0.2592566898771853
+2024-08-22 16:36:31.686691,Cleanliness,High,Housekeeping,59,Resolved,0.7269692167382307
+2024-08-03 16:36:31.686693,Cleanliness,High,Customer Service,22,Resolved,-0.7354241046979235
+2024-08-04 16:36:31.686694,Food Quality,Low,Maintenance,51,Pending,0.9551799206900864
+2024-08-25 16:36:31.686696,Staff Behavior,Medium,Catering,48,Resolved,0.16525729208073114
+2024-08-15 16:36:31.686697,Food Quality,Low,Operations,21,Pending,0.9909483046936287
+2024-08-02 16:36:31.686699,Food Quality,Medium,Operations,22,Pending,0.8230294517317016
+2024-08-28 16:36:31.686700,Food Quality,Medium,Customer Service,30,Resolved,-0.5569654557737884
+2024-08-11 16:36:31.686701,Food Quality,High,Catering,25,Pending,-0.8876759801933738
+2024-08-03 16:36:31.686703,Delay,Medium,Housekeeping,28,In Progress,-0.4887218124092769
+2024-08-04 16:36:31.686704,Delay,Low,Operations,65,In Progress,0.05512729799883975
+2024-08-27 16:36:31.686706,Damage,Low,Customer Service,45,Resolved,-0.65680726586962
+2024-08-12 16:36:31.686707,Cleanliness,Medium,Catering,68,In Progress,-0.665080510964023
+2024-08-05 16:36:31.686709,Food Quality,High,Catering,7,Pending,-0.0748129057896938
+2024-08-28 16:36:31.686710,Damage,High,Catering,49,In Progress,-0.9334640576612832
+2024-08-12 16:36:31.686711,Cleanliness,Low,Catering,9,Resolved,-0.7562238349354591
+2024-08-11 16:36:31.686713,Staff Behavior,High,Catering,36,Resolved,-0.16827732118410488
+2024-08-24 16:36:31.686714,Delay,Medium,Operations,1,Pending,-0.8737401815840671
+2024-08-11 16:36:31.686716,Cleanliness,Medium,Customer Service,10,Resolved,-0.20648988708894134
+2024-08-22 16:36:31.686717,Staff Behavior,Low,Catering,36,In Progress,-0.051987468103109835
+2024-08-30 16:36:31.686719,Cleanliness,Medium,Maintenance,46,Resolved,-0.09746677185377117
+2024-08-23 16:36:31.686720,Delay,Low,Maintenance,32,Pending,0.7383497148061746
+2024-08-24 16:36:31.686721,Delay,Medium,Customer Service,32,Resolved,0.06012491010346488
+2024-08-13 16:36:31.686723,Damage,Low,Housekeeping,6,In Progress,-0.06403907504391326
+2024-08-23 16:36:31.686724,Food Quality,High,Housekeeping,48,Pending,-0.1785815092166676
+2024-08-30 16:36:31.686726,Cleanliness,Medium,Housekeeping,38,In Progress,0.6352467566089723
+2024-08-20 16:36:31.686727,Cleanliness,Medium,Maintenance,17,Pending,0.7901132079996662
+2024-08-03 16:36:31.686728,Staff Behavior,Low,Housekeeping,27,Resolved,0.7064849383942351
+2024-08-06 16:36:31.686730,Delay,Low,Operations,54,Pending,0.3470931562627817
+2024-08-06 16:36:31.686731,Cleanliness,Medium,Catering,50,Pending,-0.7252765080626515
+2024-08-13 16:36:31.686733,Delay,Low,Maintenance,35,Resolved,-0.4462600610159755
+2024-08-08 16:36:31.686734,Cleanliness,Medium,Customer Service,25,In Progress,-0.9078738726360451
+2024-08-01 16:36:31.686736,Damage,High,Customer Service,28,Resolved,0.8616481499802282
+2024-08-21 16:36:31.686737,Food Quality,Low,Catering,15,Pending,0.3215970593818207
+2024-08-28 16:36:31.686739,Cleanliness,Medium,Maintenance,4,Resolved,0.492725768626483
+2024-08-24 16:36:31.686740,Delay,High,Housekeeping,27,Pending,-0.3768565208355421
+2024-08-03 16:36:31.686741,Damage,High,Housekeeping,26,Resolved,0.6913070445546847
+2024-08-15 16:36:31.686743,Cleanliness,Medium,Operations,19,Resolved,-0.48079343258304297
+2024-08-05 16:36:31.686744,Staff Behavior,Low,Operations,17,In Progress,-0.9967124857751006
+2024-08-15 16:36:31.686746,Food Quality,Medium,Housekeeping,43,Pending,-0.2471700749586121
+2024-08-06 16:36:31.686747,Cleanliness,High,Customer Service,41,In Progress,0.14152296191814684
+2024-08-11 16:36:31.686749,Damage,Medium,Customer Service,42,Pending,-0.04259028406895493
+2024-08-03 16:36:31.686750,Staff Behavior,Low,Operations,50,Resolved,0.7241522851531941
+2024-08-14 16:36:31.686751,Damage,High,Catering,40,Pending,-0.7891894280876661
+2024-08-29 16:36:31.686753,Damage,Medium,Housekeeping,39,In Progress,0.10764688126745114
+2024-08-30 16:36:31.686754,Staff Behavior,Low,Operations,23,In Progress,0.025958699641814853
+2024-08-15 16:36:31.686756,Damage,High,Operations,52,In Progress,-0.43721403565567396
+2024-08-01 16:36:31.686757,Staff Behavior,Low,Housekeeping,47,Pending,0.6444562251540211
+2024-08-19 16:36:31.686759,Cleanliness,High,Housekeeping,63,In Progress,0.5056973117644126
+2024-08-26 16:36:31.686760,Staff Behavior,Medium,Customer Service,69,In Progress,0.46571837466366195
+2024-08-26 16:36:31.686761,Staff Behavior,Low,Catering,43,In Progress,0.7523849565391121
+2024-08-04 16:36:31.686763,Food Quality,High,Catering,48,Resolved,0.44556920124304233
+2024-08-08 16:36:31.686764,Staff Behavior,Low,Housekeeping,34,Resolved,-0.5363174165705471
+2024-08-22 16:36:31.686766,Staff Behavior,Low,Maintenance,40,Pending,0.4111254232993822
+2024-08-22 16:36:31.686767,Cleanliness,Medium,Operations,61,Pending,-0.3845943732203123
+2024-08-28 16:36:31.686769,Food Quality,Low,Operations,50,In Progress,-0.5156506993050589
+2024-08-12 16:36:31.686770,Delay,High,Housekeeping,67,Resolved,-0.8539928142007454
+2024-08-15 16:36:31.686771,Cleanliness,High,Maintenance,62,In Progress,0.48805716069535343
+2024-08-15 16:36:31.686773,Cleanliness,High,Customer Service,58,In Progress,0.42200192389962243
+2024-08-28 16:36:31.686774,Delay,High,Housekeeping,33,Resolved,-0.5310010446518125
+2024-08-11 16:36:31.686776,Staff Behavior,Medium,Housekeeping,16,Resolved,0.49875803344831193
+2024-08-07 16:36:31.686777,Damage,Low,Operations,48,Resolved,0.8356817661871061
+2024-08-09 16:36:31.686779,Food Quality,Medium,Housekeeping,10,Pending,-0.7839420850168415
+2024-08-07 16:36:31.686780,Damage,Low,Housekeeping,38,Pending,-0.5347267232264501
+2024-08-30 16:36:31.686781,Delay,Low,Housekeeping,19,In Progress,0.500521588174631
+2024-08-07 16:36:31.686783,Cleanliness,Low,Operations,36,Pending,-0.4509866529858435
+2024-08-11 16:36:31.686784,Cleanliness,Medium,Customer Service,59,Resolved,0.24932794856743357
+2024-08-20 16:36:31.686786,Food Quality,Low,Customer Service,63,Resolved,-0.837671551072571
+2024-08-14 16:36:31.686787,Cleanliness,Medium,Housekeeping,46,Pending,-0.09559504179292255
+2024-08-23 16:36:31.686788,Cleanliness,High,Operations,3,In Progress,0.47818284398590616
+2024-08-27 16:36:31.686790,Food Quality,High,Customer Service,65,In Progress,0.37302788608650506
+2024-08-25 16:36:31.686791,Food Quality,Low,Customer Service,8,Pending,0.6301442013516136
+2024-08-23 16:36:31.686793,Delay,Medium,Customer Service,51,In Progress,0.7549042532063377
+2024-08-11 16:36:31.686794,Cleanliness,High,Operations,6,In Progress,0.5463670025175165
+2024-08-01 16:36:31.686796,Cleanliness,Medium,Operations,39,In Progress,0.34317548587785196
+2024-08-28 16:36:31.686797,Delay,Medium,Housekeeping,60,Resolved,-0.9365550163679377
+2024-08-15 16:36:31.686799,Staff Behavior,Low,Catering,28,Resolved,0.06993334681888808
+2024-08-01 16:36:31.686800,Staff Behavior,High,Customer Service,54,Pending,-0.9246045501702944
+2024-08-06 16:36:31.686801,Staff Behavior,Low,Catering,37,Resolved,0.6161356342320452
+2024-08-28 16:36:31.686803,Delay,Low,Operations,9,In Progress,-0.35855095108008483
+2024-08-06 16:36:31.686804,Cleanliness,High,Operations,56,Resolved,0.12485874823584187
+2024-08-02 16:36:31.686806,Delay,High,Operations,59,Pending,-0.4411093853621948
+2024-08-13 16:36:31.686807,Delay,Medium,Catering,2,Resolved,0.5650002887605872
+2024-08-17 16:36:31.686808,Staff Behavior,High,Operations,61,In Progress,0.7730050532838051
+2024-08-13 16:36:31.686810,Damage,Medium,Housekeeping,58,In Progress,-0.20271501157387206
+2024-08-29 16:36:31.686811,Cleanliness,Medium,Operations,60,Pending,0.725844787021978
+2024-08-09 16:36:31.686813,Staff Behavior,Medium,Maintenance,40,Resolved,-0.4658499850873352
+2024-08-28 16:36:31.686814,Damage,High,Catering,36,Resolved,0.06932184615104764
+2024-08-15 16:36:31.686816,Damage,Low,Maintenance,37,Resolved,0.7175228596774079
+2024-08-02 16:36:31.686817,Food Quality,Medium,Operations,18,In Progress,-0.34823731476841924
+2024-08-22 16:36:31.686818,Cleanliness,Low,Housekeeping,63,Pending,0.9080845301561715
+2024-08-27 16:36:31.686820,Damage,Low,Customer Service,22,Resolved,-0.7562409964372327
+2024-08-30 16:36:31.686821,Staff Behavior,High,Operations,11,In Progress,-0.9634498605529875
+2024-08-27 16:36:31.686823,Food Quality,Low,Housekeeping,58,In Progress,0.8082707051563813
+2024-08-30 16:36:31.686824,Cleanliness,Low,Catering,57,In Progress,-0.8627026677042555
+2024-08-17 16:36:31.686826,Delay,High,Maintenance,4,Resolved,0.9837783918949834
+2024-08-10 16:36:31.686827,Staff Behavior,Medium,Maintenance,7,Resolved,0.9027937239582122
+2024-08-15 16:36:31.686828,Damage,Low,Maintenance,61,Resolved,-0.7259581799273587
+2024-08-11 16:36:31.686830,Damage,High,Catering,54,Resolved,0.07516925138513164
+2024-08-07 16:36:31.686831,Staff Behavior,Low,Housekeeping,68,Resolved,-0.6301594050657113
+2024-08-23 16:36:31.686833,Damage,Low,Catering,1,Resolved,-0.1436896539397603
+2024-08-24 16:36:31.686836,Food Quality,Medium,Maintenance,55,Resolved,-0.8771497414803346
+2024-08-28 16:36:31.686838,Cleanliness,Low,Operations,3,Resolved,-0.552150824406821
+2024-08-14 16:36:31.686839,Food Quality,High,Customer Service,38,Resolved,-0.27345440720220093
+2024-08-30 16:36:31.686840,Damage,Low,Catering,1,In Progress,-0.12270499950789038
+2024-08-15 16:36:31.686842,Delay,Medium,Catering,38,Resolved,0.9549925164177864
+2024-08-19 16:36:31.686843,Cleanliness,Medium,Housekeeping,29,Pending,0.6157312913679625
+2024-08-04 16:36:31.686845,Cleanliness,High,Housekeeping,5,In Progress,0.47481988862389235
+2024-08-12 16:36:31.686846,Staff Behavior,Medium,Catering,21,Resolved,0.0740826294839485
+2024-08-09 16:36:31.686848,Staff Behavior,Low,Maintenance,71,Pending,0.6799955212086868
+2024-08-08 16:36:31.686849,Delay,Medium,Customer Service,67,Resolved,-0.32135432868857783
+2024-08-09 16:36:31.686851,Cleanliness,High,Housekeeping,47,Pending,0.41779822554663215
+2024-08-17 16:36:31.686852,Delay,Medium,Maintenance,35,Pending,0.9875679507563442
+2024-08-01 16:36:31.686853,Staff Behavior,Medium,Operations,68,Pending,-0.3707421821296024
+2024-08-25 16:36:31.686855,Staff Behavior,Medium,Housekeeping,69,Pending,0.34803506976793464
+2024-08-25 16:36:31.686856,Cleanliness,High,Maintenance,1,In Progress,0.6886297283047649
+2024-08-18 16:36:31.686858,Food Quality,Medium,Maintenance,68,In Progress,0.8316151667013445
+2024-08-12 16:36:31.686859,Damage,Medium,Customer Service,12,Pending,0.43586538188020363
+2024-08-09 16:36:31.686861,Staff Behavior,Low,Customer Service,60,Resolved,-0.4327841531657275
+2024-08-23 16:36:31.686862,Staff Behavior,High,Operations,27,Pending,-0.34743569686210707
+2024-08-04 16:36:31.686863,Food Quality,Medium,Maintenance,56,In Progress,-0.9584839357520716
+2024-08-04 16:36:31.686865,Food Quality,High,Maintenance,23,Resolved,0.5217719553430193
+2024-08-29 16:36:31.686866,Delay,Medium,Customer Service,25,In Progress,-0.9145207878760973
+2024-08-10 16:36:31.686868,Delay,Medium,Housekeeping,21,In Progress,0.7293047092054914
+2024-08-01 16:36:31.686869,Damage,Medium,Housekeeping,61,Resolved,-0.7626787710509224
+2024-08-30 16:36:31.686870,Damage,Low,Catering,63,Pending,-0.6562469757281515
+2024-08-03 16:36:31.686872,Cleanliness,Low,Customer Service,52,Pending,-0.04694705833552537
+2024-08-16 16:36:31.686873,Delay,Low,Catering,25,Pending,0.47576083033748473
+2024-08-30 16:36:31.686875,Staff Behavior,High,Customer Service,55,Pending,-0.7219955896018446
+2024-08-26 16:36:31.686876,Delay,High,Operations,46,Resolved,-0.1198578498670031
+2024-08-03 16:36:31.686878,Staff Behavior,Low,Maintenance,32,Resolved,-0.03429745117979044
+2024-08-02 16:36:31.686879,Food Quality,High,Operations,55,Resolved,-0.5754287166628174
+2024-08-15 16:36:31.686880,Delay,Medium,Customer Service,5,In Progress,-0.7688832466387365
+2024-08-12 16:36:31.686882,Food Quality,Medium,Maintenance,36,Resolved,0.672841845971279
+2024-08-27 16:36:31.686883,Damage,Medium,Housekeeping,49,Pending,0.004931299525531063
+2024-08-28 16:36:31.686885,Damage,Low,Housekeeping,58,In Progress,-0.971237528031694
+2024-08-14 16:36:31.686886,Cleanliness,High,Catering,39,Pending,0.6059626026182077
+2024-08-14 16:36:31.686888,Delay,Low,Customer Service,61,Pending,0.9615876108291697
+2024-08-19 16:36:31.686889,Food Quality,High,Customer Service,9,Resolved,0.2118523908284946
+2024-08-03 16:36:31.686890,Staff Behavior,Medium,Housekeeping,6,Resolved,0.00741677416814146
+2024-08-01 16:36:31.686892,Damage,Low,Operations,35,Pending,0.7568317260899233
+2024-08-02 16:36:31.686893,Damage,High,Maintenance,39,Pending,0.9050335793691973
+2024-08-17 16:36:31.686895,Staff Behavior,High,Operations,22,In Progress,0.509073831804921
+2024-08-10 16:36:31.686896,Food Quality,Medium,Operations,41,Resolved,-0.1090941405314243
+2024-08-25 16:36:31.686898,Food Quality,Low,Housekeeping,5,In Progress,0.18444279866288094
+2024-08-28 16:36:31.686899,Delay,Low,Housekeeping,42,In Progress,0.4018707300359985
+2024-08-03 16:36:31.686900,Delay,Low,Housekeeping,67,In Progress,-0.6114528579963971
+2024-08-22 16:36:31.686902,Cleanliness,Medium,Catering,30,Pending,-0.10559793556712394
+2024-08-26 16:36:31.686903,Damage,Low,Operations,57,In Progress,0.65964252943457
+2024-08-07 16:36:31.686905,Delay,Medium,Customer Service,29,In Progress,0.309450696996886
+2024-08-02 16:36:31.686906,Food Quality,Medium,Maintenance,37,Pending,-0.1775918655762918
+2024-08-14 16:36:31.686908,Staff Behavior,Medium,Catering,13,Resolved,0.32672506802936274
+2024-08-17 16:36:31.686909,Food Quality,High,Customer Service,32,Resolved,-0.7635551758550803
+2024-08-10 16:36:31.686911,Damage,Low,Operations,46,In Progress,-0.19700477887024737
+2024-08-28 16:36:31.686912,Food Quality,Low,Housekeeping,23,Pending,0.5862570759261128
+2024-08-03 16:36:31.686913,Cleanliness,Medium,Operations,45,Resolved,-0.558982425726704
+2024-08-30 16:36:31.686915,Damage,Medium,Maintenance,17,In Progress,-0.6280769848851646
+2024-08-11 16:36:31.686916,Staff Behavior,Low,Catering,66,In Progress,0.9016373198328629
+2024-08-02 16:36:31.686918,Cleanliness,Medium,Catering,6,Pending,-0.5802047408275386
+2024-08-10 16:36:31.686919,Damage,Low,Maintenance,18,In Progress,-0.47816284069966386
+2024-08-08 16:36:31.686921,Staff Behavior,High,Customer Service,22,Resolved,0.9392318778086759
+2024-08-30 16:36:31.686922,Cleanliness,Medium,Customer Service,33,Pending,0.46941714053005135
+2024-08-28 16:36:31.686923,Cleanliness,Low,Catering,30,Resolved,0.3991930660470564
+2024-08-13 16:36:31.686925,Damage,Medium,Catering,32,Resolved,0.7058527677091626
+2024-08-06 16:36:31.686926,Delay,Low,Housekeeping,42,Resolved,-0.7683538355264115
+2024-08-21 16:36:31.686928,Cleanliness,Low,Customer Service,10,In Progress,0.41191247316001434
+2024-08-09 16:36:31.686929,Cleanliness,Medium,Maintenance,36,In Progress,0.00737721865647778
+2024-08-05 16:36:31.686931,Staff Behavior,High,Customer Service,34,Resolved,0.6583012805682797
+2024-08-28 16:36:31.686932,Food Quality,Low,Housekeeping,28,Resolved,0.016283437330388617
+2024-08-23 16:36:31.686933,Damage,Low,Catering,11,Pending,0.24048270853782427
+2024-08-17 16:36:31.686935,Damage,Low,Catering,39,Pending,-0.0445157472009281
+2024-08-07 16:36:31.686936,Delay,High,Housekeeping,47,In Progress,-0.04368215288831179
+2024-08-13 16:36:31.686938,Delay,High,Maintenance,19,In Progress,0.5359399561236631
+2024-08-16 16:36:31.686939,Damage,Medium,Catering,15,Pending,0.2571328012945664
+2024-08-09 16:36:31.686941,Delay,High,Operations,28,Resolved,0.2665264032188208
+2024-08-08 16:36:31.686942,Staff Behavior,Medium,Catering,24,In Progress,-0.09943503233694839
+2024-08-29 16:36:31.686943,Damage,Medium,Operations,9,Resolved,0.06221899267505515
+2024-08-04 16:36:31.686945,Delay,High,Housekeeping,47,Pending,0.4914353324095746
+2024-08-21 16:36:31.686946,Damage,Medium,Housekeeping,33,In Progress,0.6518818382238365
+2024-08-29 16:36:31.686948,Food Quality,High,Catering,62,In Progress,0.3931228042880923
+2024-08-05 16:36:31.686949,Cleanliness,Medium,Customer Service,19,Pending,0.8481459776913662
+2024-08-14 16:36:31.686951,Damage,High,Operations,67,In Progress,0.6406481762944018
+2024-08-23 16:36:31.686952,Cleanliness,High,Maintenance,40,Pending,0.12372757961903691
+2024-08-30 16:36:31.686954,Delay,Medium,Catering,47,In Progress,0.3428121452874737
+2024-08-22 16:36:31.686955,Cleanliness,Low,Maintenance,65,Pending,0.852616553842392
+2024-08-20 16:36:31.686956,Damage,Medium,Catering,29,In Progress,0.23833608848611676
+2024-08-09 16:36:31.686958,Food Quality,High,Customer Service,50,Resolved,0.6496138959596613
+2024-08-15 16:36:31.686959,Delay,Low,Customer Service,13,Resolved,0.37762100717997416
+2024-08-24 16:36:31.686961,Damage,Medium,Customer Service,1,Resolved,0.10387272212093301
+2024-08-02 16:36:31.686962,Delay,Medium,Customer Service,34,In Progress,-0.5163236091692938
+2024-08-21 16:36:31.686964,Staff Behavior,Medium,Housekeeping,48,In Progress,-0.14800496106314376
+2024-08-08 16:36:31.686965,Cleanliness,Low,Housekeeping,48,Resolved,0.9354856496674313
+2024-08-05 16:36:31.686966,Staff Behavior,High,Operations,49,Resolved,0.31553076654520007
+2024-08-28 16:36:31.686968,Damage,Medium,Maintenance,64,Pending,0.12879076067797923
+2024-08-13 16:36:31.686969,Food Quality,Medium,Catering,61,Pending,0.8659132510564547
+2024-08-06 16:36:31.686971,Delay,Medium,Catering,29,Pending,0.17302356207489744
+2024-08-07 16:36:31.686972,Cleanliness,Medium,Housekeeping,39,Resolved,0.05216503683480589
+2024-08-18 16:36:31.686974,Delay,Medium,Catering,26,Resolved,0.5186217103004105
+2024-08-03 16:36:31.686975,Damage,High,Housekeeping,17,Resolved,0.4253312379730889
+2024-08-05 16:36:31.686977,Delay,High,Operations,71,Pending,-0.6136799831831345
+2024-08-24 16:36:31.686978,Cleanliness,Medium,Maintenance,13,In Progress,-0.05738345085175767
+2024-08-06 16:36:31.686979,Damage,Low,Operations,69,Resolved,-0.05496911436082952
+2024-08-27 16:36:31.686981,Delay,High,Customer Service,26,In Progress,-0.24355096951331046
+2024-08-18 16:36:31.686982,Food Quality,Low,Customer Service,49,In Progress,0.03458696430450625
+2024-08-11 16:36:31.686984,Damage,High,Customer Service,67,In Progress,-0.17378520454571156
+2024-08-30 16:36:31.686985,Damage,Medium,Operations,7,Pending,-0.6013090210576337
+2024-08-23 16:36:31.686987,Food Quality,High,Catering,58,In Progress,-0.17526702545063788
+2024-08-17 16:36:31.686988,Staff Behavior,Medium,Maintenance,49,Resolved,-0.8554461048536468
+2024-08-15 16:36:31.686990,Cleanliness,High,Customer Service,53,Pending,0.15157172554882314
+2024-08-17 16:36:31.686991,Staff Behavior,Medium,Customer Service,65,Resolved,0.7073090978822238
+2024-08-19 16:36:31.686992,Delay,Medium,Customer Service,62,Resolved,0.4505741687091105
+2024-08-12 16:36:31.686994,Food Quality,Medium,Maintenance,17,Pending,-0.2792119198917775
+2024-08-08 16:36:31.686995,Staff Behavior,Medium,Customer Service,43,Resolved,-0.8258575888453836
+2024-08-16 16:36:31.686997,Damage,Low,Maintenance,25,Resolved,-0.5957012015494585
+2024-08-03 16:36:31.686998,Delay,Medium,Customer Service,3,Pending,0.09098068098967138
+2024-08-29 16:36:31.687000,Delay,Low,Operations,29,Resolved,-0.5858858332339343
+2024-08-29 16:36:31.687001,Staff Behavior,Low,Operations,32,In Progress,0.087946222569935
+2024-08-08 16:36:31.687002,Staff Behavior,Medium,Maintenance,26,Resolved,-0.5368019504722021
+2024-08-09 16:36:31.687004,Food Quality,Low,Operations,16,In Progress,0.6978477389521456
+2024-08-12 16:36:31.687005,Cleanliness,High,Maintenance,25,Resolved,-0.20545705431908057
+2024-08-06 16:36:31.687007,Staff Behavior,Medium,Operations,54,Pending,-0.5088987481110179
+2024-08-05 16:36:31.687008,Staff Behavior,Low,Operations,28,Pending,0.6246523604941232
+2024-08-01 16:36:31.687010,Damage,Medium,Maintenance,56,Resolved,-0.31432207038909854
+2024-08-02 16:36:31.687011,Delay,Medium,Catering,65,Pending,-0.7770246243224361
+2024-08-09 16:36:31.687013,Cleanliness,Medium,Operations,41,Resolved,0.14081898280728322
+2024-08-05 16:36:31.687014,Damage,Low,Customer Service,51,Pending,0.16312840887597746
+2024-08-05 16:36:31.687015,Food Quality,High,Catering,71,In Progress,0.42939135047146837
+2024-08-09 16:36:31.687017,Food Quality,High,Maintenance,29,Resolved,-0.5195611335832289
+2024-08-14 16:36:31.687018,Staff Behavior,Low,Catering,19,In Progress,-0.11245732181550983
+2024-08-11 16:36:31.687020,Staff Behavior,Medium,Housekeeping,66,In Progress,-0.43526416191468753
+2024-08-21 16:36:31.687021,Food Quality,Low,Housekeeping,41,Resolved,-0.8380925277686238
+2024-08-25 16:36:31.687023,Staff Behavior,Low,Operations,45,In Progress,0.7532276540317833
+2024-08-16 16:36:31.687024,Cleanliness,Low,Operations,15,Resolved,0.4577396089766823
+2024-08-09 16:36:31.687025,Staff Behavior,Medium,Customer Service,3,In Progress,-0.3970738810823986
+2024-08-20 16:36:31.687027,Delay,Low,Catering,11,Resolved,0.19874598574397262
+2024-08-03 16:36:31.687028,Staff Behavior,Medium,Housekeeping,53,Resolved,-0.5974724237310551
+2024-08-26 16:36:31.687030,Damage,Low,Operations,46,Pending,0.7804732435915418
+2024-08-30 16:36:31.687031,Cleanliness,High,Catering,30,Resolved,-0.7701873132761794
+2024-08-23 16:36:31.687033,Damage,Low,Operations,57,Resolved,-0.9923257089843982
+2024-08-10 16:36:31.687034,Damage,Low,Operations,18,In Progress,0.0040163954783642986
+2024-08-03 16:36:31.687035,Delay,High,Housekeeping,51,Resolved,0.16625564690573857
+2024-08-19 16:36:31.687037,Cleanliness,Medium,Housekeeping,48,Pending,0.15793064059160877
+2024-08-19 16:36:31.687038,Cleanliness,Medium,Operations,66,In Progress,-0.8909761451243474
+2024-08-26 16:36:31.687040,Cleanliness,Low,Maintenance,8,In Progress,-0.37191238616313504
+2024-08-24 16:36:31.687041,Cleanliness,High,Operations,22,Pending,-0.0016021063173363714
+2024-08-27 16:36:31.687043,Cleanliness,Medium,Operations,6,In Progress,-0.5668416287455182
+2024-08-25 16:36:31.687044,Delay,Low,Customer Service,57,In Progress,0.7452517709717927
+2024-08-18 16:36:31.687046,Staff Behavior,High,Customer Service,36,In Progress,-0.8257814210771319
+2024-08-11 16:36:31.687047,Damage,Medium,Customer Service,57,In Progress,-0.025231116655914265
+2024-08-01 16:36:31.687049,Cleanliness,Medium,Maintenance,49,Pending,0.3828321150263041
+2024-08-16 16:36:31.687050,Staff Behavior,High,Maintenance,45,Pending,-0.4764977997310351
+2024-08-28 16:36:31.687051,Staff Behavior,High,Operations,66,In Progress,0.24848147399503628
+2024-08-08 16:36:31.687053,Damage,High,Customer Service,45,In Progress,0.6587703002847491
+2024-08-23 16:36:31.687054,Delay,High,Maintenance,20,Pending,-0.6193260498099049
+2024-08-11 16:36:31.687056,Food Quality,Low,Housekeeping,64,Pending,0.8344411836497256
+2024-08-15 16:36:31.687057,Food Quality,High,Operations,67,Pending,0.10711706532471599
+2024-08-18 16:36:31.687059,Staff Behavior,Medium,Catering,3,In Progress,-0.4015359913978789
+2024-08-13 16:36:31.687060,Damage,Medium,Operations,54,In Progress,-0.13828344923545854
+2024-08-03 16:36:31.687062,Food Quality,Low,Catering,64,Resolved,-0.3756162324272241
+2024-08-21 16:36:31.687063,Staff Behavior,Medium,Customer Service,40,Pending,0.4502223198666322
+2024-08-01 16:36:31.687064,Delay,Medium,Catering,59,In Progress,0.5926013268302643
+2024-08-12 16:36:31.687066,Food Quality,High,Customer Service,55,Pending,0.6658747846373221
+2024-08-14 16:36:31.687067,Staff Behavior,Medium,Housekeeping,62,In Progress,0.9715364991714823
+2024-08-07 16:36:31.687069,Staff Behavior,Low,Catering,4,Pending,0.5825685849933671
+2024-08-12 16:36:31.687070,Cleanliness,High,Operations,60,In Progress,0.20276814137712673
+2024-08-03 16:36:31.687072,Delay,High,Customer Service,30,Resolved,-0.3215594032164324
+2024-08-05 16:36:31.687073,Cleanliness,Low,Operations,2,Resolved,0.08919089742149877
+2024-08-08 16:36:31.687075,Damage,High,Maintenance,62,Pending,-0.9178636544191892
+2024-08-05 16:36:31.687076,Cleanliness,High,Customer Service,49,In Progress,0.4896501510598261
+2024-08-26 16:36:31.687077,Cleanliness,Low,Catering,9,In Progress,-0.10808890981579644
+2024-08-05 16:36:31.687079,Food Quality,High,Customer Service,31,Pending,-0.9599535405356248
+2024-08-10 16:36:31.687080,Staff Behavior,Low,Operations,61,In Progress,-0.8749861169791784
+2024-08-01 16:36:31.687082,Delay,Low,Housekeeping,48,Pending,-0.2250670723564867
+2024-08-08 16:36:31.687083,Cleanliness,Medium,Customer Service,25,In Progress,0.16684303803687017
+2024-08-22 16:36:31.687085,Delay,Medium,Catering,36,Pending,-0.07159210209574662
+2024-08-19 16:36:31.687086,Cleanliness,High,Maintenance,8,In Progress,0.23840863458430972
+2024-08-10 16:36:31.687088,Damage,High,Housekeeping,58,Pending,-0.039411482417288424
+2024-08-30 16:36:31.687089,Cleanliness,Low,Maintenance,45,In Progress,0.3234076909626935
+2024-08-05 16:36:31.687090,Food Quality,High,Customer Service,62,Resolved,-0.5617478706583983
+2024-08-05 16:36:31.687092,Staff Behavior,Low,Operations,39,In Progress,-0.7743136256327572
+2024-08-30 16:36:31.687093,Damage,Low,Operations,58,Pending,0.1928679092513199
+2024-08-16 16:36:31.687095,Cleanliness,High,Catering,64,Resolved,-0.030620966127385074
+2024-08-29 16:36:31.687096,Delay,Low,Operations,44,In Progress,-0.9462646919101294
+2024-08-01 16:36:31.687098,Damage,Medium,Housekeeping,29,Resolved,-0.2390362290139283
+2024-08-09 16:36:31.687099,Damage,High,Operations,59,In Progress,-0.787748829018009
+2024-08-15 16:36:31.687101,Cleanliness,Medium,Catering,71,Resolved,0.06271366350539043
+2024-08-06 16:36:31.687102,Damage,High,Customer Service,9,Pending,-0.20844464067913848
+2024-08-23 16:36:31.687104,Delay,Low,Customer Service,6,In Progress,0.22630382220603584
+2024-08-18 16:36:31.687105,Damage,High,Operations,29,In Progress,0.6112044375404766
+2024-08-10 16:36:31.687106,Delay,Medium,Maintenance,58,Pending,-0.4006626323170184
+2024-08-30 16:36:31.687108,Cleanliness,Low,Customer Service,17,Resolved,0.924204208330055
+2024-08-15 16:36:31.687109,Staff Behavior,High,Operations,16,Pending,0.0712690011751489
+2024-08-02 16:36:31.687111,Damage,High,Catering,3,Pending,0.23658159750957597
+2024-08-24 16:36:31.687112,Staff Behavior,High,Operations,21,Resolved,0.3613447464514741
+2024-08-26 16:36:31.687114,Delay,Medium,Customer Service,64,Pending,0.33346305971517953
+2024-08-09 16:36:31.687115,Damage,Medium,Catering,36,In Progress,0.02194148609012414
+2024-08-02 16:36:31.687117,Food Quality,High,Operations,62,In Progress,-0.142471417770633
+2024-08-08 16:36:31.687118,Staff Behavior,Low,Housekeeping,42,In Progress,-0.8924360716452442
+2024-08-28 16:36:31.687119,Damage,Low,Catering,42,Pending,-0.9558283093976405
+2024-08-19 16:36:31.687121,Staff Behavior,Medium,Housekeeping,61,In Progress,-0.2840776109344707
+2024-08-05 16:36:31.687122,Damage,Low,Maintenance,13,In Progress,-0.3326782187326147
+2024-08-15 16:36:31.687124,Cleanliness,Medium,Catering,11,In Progress,-0.22460969032198652
+2024-08-12 16:36:31.687125,Staff Behavior,High,Housekeeping,54,In Progress,-0.72326359822362
+2024-08-26 16:36:31.687127,Food Quality,Medium,Customer Service,16,In Progress,0.4763365410736873
+2024-08-09 16:36:31.687128,Food Quality,Medium,Customer Service,8,In Progress,0.7139288295524779
+2024-08-06 16:36:31.687129,Delay,High,Maintenance,59,Pending,0.87742927074807
+2024-08-02 16:36:31.687131,Damage,Low,Catering,57,In Progress,-0.015275392960748313
+2024-08-17 16:36:31.687132,Staff Behavior,Medium,Catering,40,In Progress,0.40173139825085724
+2024-08-03 16:36:31.687134,Delay,Medium,Catering,59,Resolved,0.711102246871745
+2024-08-26 16:36:31.687135,Staff Behavior,High,Maintenance,2,Pending,-0.16341777781302813
+2024-08-16 16:36:31.687137,Damage,Low,Catering,10,Pending,-0.38117441025911125
+2024-08-14 16:36:31.687138,Food Quality,Medium,Customer Service,44,Pending,0.8734491117069803
+2024-08-01 16:36:31.687139,Cleanliness,High,Housekeeping,11,Pending,0.03135310215414622
+2024-08-17 16:36:31.687141,Food Quality,Medium,Customer Service,2,In Progress,-0.005492226818244017
+2024-08-01 16:36:31.687142,Delay,High,Customer Service,50,In Progress,-0.6431678068730085
+2024-08-11 16:36:31.687144,Cleanliness,Low,Housekeeping,12,Resolved,-0.7836899708532865
+2024-08-26 16:36:31.687145,Delay,Low,Customer Service,23,Resolved,0.6842137249670233
+2024-08-19 16:36:31.687147,Damage,Low,Maintenance,18,Pending,0.22826635237503612
+2024-08-15 16:36:31.687148,Cleanliness,Low,Housekeeping,62,Resolved,-0.3483508319611026
+2024-08-05 16:36:31.687150,Delay,Medium,Customer Service,62,Resolved,-0.616527565219467
+2024-08-05 16:36:31.687151,Damage,Medium,Operations,38,Pending,0.1109945603392628
+2024-08-15 16:36:31.687152,Food Quality,Low,Customer Service,67,Pending,0.1678385785222707
+2024-08-10 16:36:31.687154,Damage,Low,Maintenance,38,Resolved,-0.5860127975098837
+2024-08-24 16:36:31.687155,Staff Behavior,Low,Catering,67,In Progress,0.7028114957829479
+2024-08-27 16:36:31.687157,Damage,Medium,Customer Service,61,Resolved,-0.8314712676882978
+2024-08-30 16:36:31.687158,Damage,Low,Catering,1,Resolved,-0.28781382966715663
+2024-08-01 16:36:31.687160,Staff Behavior,Low,Operations,45,In Progress,0.36076882752504424
+2024-08-01 16:36:31.687161,Delay,Low,Customer Service,28,In Progress,-0.45175927236159863
+2024-08-26 16:36:31.687162,Delay,High,Housekeeping,21,Pending,0.6553503895625437
+2024-08-08 16:36:31.687164,Damage,Low,Catering,13,Pending,0.479735653200807
+2024-08-05 16:36:31.687165,Staff Behavior,High,Operations,27,Resolved,0.5780456890962684
+2024-08-21 16:36:31.687167,Staff Behavior,High,Housekeeping,7,In Progress,-0.7617869282465675
+2024-08-09 16:36:31.687168,Food Quality,Low,Housekeeping,22,Pending,-0.7189057440089142
+2024-08-26 16:36:31.687170,Delay,High,Housekeeping,53,Resolved,-0.42705252451083275
+2024-08-27 16:36:31.687171,Cleanliness,Low,Housekeeping,4,In Progress,0.03615433039512217
+2024-08-29 16:36:31.687172,Delay,Medium,Customer Service,23,Resolved,0.4960321533988048
+2024-08-11 16:36:31.687174,Delay,Medium,Customer Service,70,Pending,0.673061781521807
+2024-08-21 16:36:31.687175,Food Quality,Medium,Customer Service,33,Pending,0.4086706319143609
+2024-08-05 16:36:31.687177,Cleanliness,Medium,Operations,28,In Progress,0.8571937630612767
+2024-08-12 16:36:31.687178,Food Quality,High,Operations,8,Resolved,0.47748701923186054
+2024-08-05 16:36:31.687180,Cleanliness,Low,Operations,1,In Progress,-0.38746422599077057
+2024-08-30 16:36:31.687181,Damage,Low,Maintenance,37,Pending,-0.4698374313228548
+2024-08-07 16:36:31.687183,Cleanliness,Low,Operations,63,Pending,0.3923849006021798
+2024-08-26 16:36:31.687184,Food Quality,Medium,Customer Service,22,Resolved,-0.6142588626207715
+2024-08-18 16:36:31.687186,Delay,Medium,Customer Service,70,Resolved,-0.8145703783794602
+2024-08-27 16:36:31.687187,Cleanliness,Low,Maintenance,21,Resolved,0.06444574971238781
+2024-08-15 16:36:31.687188,Cleanliness,Medium,Maintenance,35,In Progress,0.6432831395579106
+2024-08-07 16:36:31.687190,Staff Behavior,Low,Operations,5,Resolved,-0.7972403150602729
+2024-08-15 16:36:31.687191,Delay,Low,Catering,60,Resolved,0.5837826475914585
+2024-08-08 16:36:31.687193,Damage,Low,Maintenance,46,Pending,0.6231440087030962
+2024-08-29 16:36:31.687194,Food Quality,Low,Housekeeping,50,Pending,-0.03545199983691294
+2024-08-14 16:36:31.687196,Damage,Low,Customer Service,48,Resolved,-0.8853793799790264
+2024-08-03 16:36:31.687197,Delay,Low,Housekeeping,6,Resolved,-0.6508202975056272
+2024-08-04 16:36:31.687198,Cleanliness,Low,Customer Service,56,Pending,0.4148525503238647
+2024-08-11 16:36:31.687200,Cleanliness,Medium,Customer Service,59,Resolved,0.42355588998189897
+2024-08-07 16:36:31.687201,Delay,Low,Maintenance,29,In Progress,0.7967105503353307
+2024-08-19 16:36:31.687203,Cleanliness,Low,Maintenance,71,In Progress,0.16537229310916568
+2024-08-13 16:36:31.687204,Cleanliness,Medium,Housekeeping,18,In Progress,-0.7517852645724452
+2024-08-28 16:36:31.687205,Cleanliness,Medium,Customer Service,2,Resolved,-0.7571701889900557
+2024-08-03 16:36:31.687207,Food Quality,Medium,Housekeeping,8,Pending,0.44226471471364737
+2024-08-30 16:36:31.687208,Food Quality,Low,Catering,54,Resolved,-0.6324306697841977
+2024-08-30 16:36:31.687210,Staff Behavior,High,Housekeeping,38,Resolved,-0.3432290007667893
+2024-08-02 16:36:31.687211,Damage,High,Operations,48,Pending,-0.02557598615617218
+2024-08-12 16:36:31.687213,Delay,Medium,Housekeeping,27,Pending,-0.9504702448476976
+2024-08-20 16:36:31.687214,Delay,High,Operations,20,Pending,-0.5023619459601363
+2024-08-26 16:36:31.687216,Delay,Medium,Operations,12,In Progress,-0.18422078298543987
+2024-08-19 16:36:31.687217,Staff Behavior,Low,Operations,43,Resolved,-0.4407273630135875
+2024-08-28 16:36:31.687219,Food Quality,High,Catering,61,Pending,-0.7272593450648683
+2024-08-30 16:36:31.687220,Staff Behavior,Low,Housekeeping,31,Resolved,0.45602451559239476
+2024-08-30 16:36:31.687221,Delay,High,Housekeeping,61,In Progress,0.6262953103359699
+2024-08-23 16:36:31.687223,Damage,Low,Catering,67,In Progress,-0.48504204771255033
+2024-08-21 16:36:31.687224,Cleanliness,High,Customer Service,35,Pending,0.5488389892126067
+2024-08-20 16:36:31.687226,Food Quality,Low,Maintenance,15,Pending,-0.22889287119737234
+2024-08-19 16:36:31.687227,Food Quality,Low,Housekeeping,16,Resolved,0.013371581708005564
+2024-08-02 16:36:31.687229,Staff Behavior,High,Maintenance,13,Pending,0.7120021497863056
+2024-08-18 16:36:31.687230,Food Quality,Low,Catering,35,Resolved,0.4999073636048157
+2024-08-19 16:36:31.687232,Delay,Low,Customer Service,59,Pending,0.6102337026323554
+2024-08-17 16:36:31.687233,Delay,Low,Customer Service,21,Resolved,-0.7263096668272864
+2024-08-29 16:36:31.687234,Staff Behavior,High,Customer Service,54,Resolved,-0.860561148332541
+2024-08-02 16:36:31.687236,Delay,High,Catering,30,Resolved,0.7868094581759741
+2024-08-12 16:36:31.687237,Damage,Low,Operations,48,Resolved,-0.2243314608578113
+2024-08-13 16:36:31.687239,Staff Behavior,Low,Operations,35,In Progress,-0.4242406438606383
+2024-08-28 16:36:31.687240,Damage,High,Maintenance,38,Resolved,0.449392508523649
+2024-08-08 16:36:31.687242,Cleanliness,High,Operations,31,Pending,0.6728311931597133
+2024-08-14 16:36:31.687243,Damage,Low,Operations,24,In Progress,0.7249792437966018
+2024-08-05 16:36:31.687244,Cleanliness,Low,Customer Service,49,In Progress,-0.36800571774954527
+2024-08-23 16:36:31.687246,Cleanliness,Low,Customer Service,32,Resolved,0.704424782403348
+2024-08-02 16:36:31.687247,Damage,Medium,Maintenance,55,In Progress,-0.9181321112513092
+2024-08-05 16:36:31.687249,Staff Behavior,High,Housekeeping,58,Resolved,-0.9006770170805622
+2024-08-21 16:36:31.687250,Delay,Medium,Maintenance,3,Pending,0.24703839034830888
+2024-08-05 16:36:31.687252,Delay,High,Maintenance,69,Resolved,-0.8737872617689075
+2024-08-01 16:36:31.687253,Cleanliness,High,Catering,10,In Progress,-0.35078166297967694
+2024-08-29 16:36:31.687254,Cleanliness,High,Catering,25,Pending,0.345511972493848
+2024-08-12 16:36:31.687256,Staff Behavior,High,Maintenance,68,Resolved,-0.32546620789154734
+2024-08-22 16:36:31.687257,Food Quality,High,Maintenance,61,Pending,-0.6408004371198082
+2024-08-24 16:36:31.687259,Damage,High,Maintenance,29,Pending,-0.43729875629231674
+2024-08-27 16:36:31.687260,Cleanliness,High,Operations,19,In Progress,-0.08484933549913642
+2024-08-05 16:36:31.687261,Delay,Medium,Catering,43,Pending,-0.04922828928903522
+2024-08-10 16:36:31.687263,Staff Behavior,Low,Maintenance,66,In Progress,0.566000462694404
+2024-08-13 16:36:31.687264,Damage,Low,Customer Service,61,Pending,0.500306458863025
+2024-08-18 16:36:31.687266,Staff Behavior,Medium,Customer Service,43,Resolved,-0.08636439088772963
+2024-08-20 16:36:31.687267,Damage,Medium,Operations,25,Pending,0.6913346981975428
+2024-08-02 16:36:31.687269,Damage,Medium,Operations,20,Resolved,-0.7715257228172083
+2024-08-07 16:36:31.687270,Cleanliness,Medium,Housekeeping,48,Resolved,-0.489293299542197
+2024-08-27 16:36:31.687271,Staff Behavior,High,Housekeeping,24,Pending,0.655952927004503
+2024-08-06 16:36:31.687273,Staff Behavior,Low,Housekeeping,11,Resolved,-0.2440119227476938
+2024-08-10 16:36:31.687274,Delay,High,Operations,55,Pending,0.9623631175876843
+2024-08-02 16:36:31.687276,Delay,Low,Operations,28,Pending,-0.06749343694432919
+2024-08-06 16:36:31.687277,Cleanliness,Low,Operations,69,Resolved,0.5838712459275281
+2024-08-27 16:36:31.687279,Cleanliness,Medium,Customer Service,63,Resolved,-0.1953859172352561
+2024-08-21 16:36:31.687280,Food Quality,High,Operations,59,In Progress,-0.1500929618751392
+2024-08-26 16:36:31.687281,Delay,Medium,Customer Service,5,Resolved,-0.23423370543163302
+2024-08-22 16:36:31.687283,Damage,High,Housekeeping,51,In Progress,0.4381512410216235
+2024-08-07 16:36:31.687284,Staff Behavior,Low,Housekeeping,21,Resolved,0.09503576811998893
+2024-08-28 16:36:31.687286,Cleanliness,Medium,Housekeeping,12,Pending,0.8875562227367382
+2024-08-14 16:36:31.687287,Staff Behavior,Medium,Maintenance,50,Resolved,-0.4982193669317905
+2024-08-28 16:36:31.687289,Staff Behavior,Low,Maintenance,4,Pending,-0.7988745358331113
+2024-08-15 16:36:31.687290,Food Quality,Low,Catering,42,Pending,-0.21347702980156957
+2024-08-27 16:36:31.687291,Delay,Low,Catering,38,Pending,0.23342541529355199
+2024-08-13 16:36:31.687293,Cleanliness,Medium,Catering,25,In Progress,0.72159787383099
+2024-08-14 16:36:31.687294,Staff Behavior,High,Maintenance,14,Resolved,-0.30760622663934467
+2024-08-24 16:36:31.687296,Cleanliness,Medium,Maintenance,32,Pending,0.3075735022489232
+2024-08-07 16:36:31.687297,Damage,High,Catering,11,Pending,-0.2996026379535619
+2024-08-08 16:36:31.687299,Food Quality,Medium,Catering,61,In Progress,0.23443916598891623
+2024-08-01 16:36:31.687300,Damage,Medium,Operations,18,Resolved,0.7696158940613018
+2024-08-26 16:36:31.687301,Cleanliness,Low,Catering,27,Resolved,-0.537284715481182
+2024-08-19 16:36:31.687303,Cleanliness,High,Operations,55,In Progress,-0.19151671578592167
+2024-08-14 16:36:31.687304,Delay,Medium,Customer Service,54,In Progress,0.9865303928594931
+2024-08-08 16:36:31.687306,Staff Behavior,Medium,Maintenance,21,Resolved,0.7371140564989216
+2024-08-18 16:36:31.687307,Staff Behavior,Low,Catering,44,In Progress,0.12927971579240394
+2024-08-08 16:36:31.687309,Damage,Low,Maintenance,5,Resolved,0.03325518370855063
+2024-08-06 16:36:31.687310,Food Quality,High,Maintenance,41,Resolved,-0.430799235390638
+2024-08-28 16:36:31.687311,Staff Behavior,Medium,Maintenance,59,Pending,0.0344188553870588
+2024-08-22 16:36:31.687313,Delay,High,Customer Service,54,Pending,0.6963629965598943
+2024-08-01 16:36:31.687314,Damage,Medium,Housekeeping,22,Resolved,0.3703490265555611
+2024-08-14 16:36:31.687316,Damage,High,Catering,65,Resolved,-0.41991194364402684
+2024-08-14 16:36:31.687317,Delay,Low,Housekeeping,64,Resolved,-0.5970721578929341
+2024-08-01 16:36:31.687319,Food Quality,Medium,Housekeeping,71,Resolved,-0.46958292600634177
+2024-08-11 16:36:31.687320,Delay,High,Housekeeping,4,Resolved,-0.660481597214347
+2024-08-15 16:36:31.687321,Food Quality,Low,Maintenance,65,Resolved,-0.8087186079525681
+2024-08-06 16:36:31.687323,Delay,Low,Operations,15,In Progress,-0.16172765111589005
+2024-08-09 16:36:31.687325,Delay,High,Maintenance,22,Resolved,-0.7734007912034646
+2024-08-18 16:36:31.687327,Cleanliness,Medium,Maintenance,47,In Progress,-0.6561748845457913
+2024-08-04 16:36:31.687328,Damage,Medium,Housekeeping,46,In Progress,0.09464936867897222
+2024-08-12 16:36:31.687330,Delay,Low,Maintenance,14,Resolved,-0.6708014526008506
+2024-08-14 16:36:31.687331,Delay,Medium,Housekeeping,50,Resolved,-0.8722404651381943
+2024-08-27 16:36:31.687333,Staff Behavior,Medium,Operations,20,In Progress,-0.3652222999442296
+2024-08-19 16:36:31.687334,Damage,Medium,Catering,50,In Progress,-0.559361802756065
+2024-08-02 16:36:31.687336,Staff Behavior,Low,Housekeeping,33,Resolved,0.03061037598875349
+2024-08-22 16:36:31.687337,Damage,High,Operations,59,Resolved,-0.7952658308335814
+2024-08-12 16:36:31.687338,Staff Behavior,Medium,Catering,43,In Progress,0.5035415753659562
+2024-08-19 16:36:31.687340,Delay,Low,Customer Service,12,In Progress,0.8124670388702773
+2024-08-22 16:36:31.687341,Delay,Low,Housekeeping,40,In Progress,0.4868703479123888
+2024-08-24 16:36:31.687343,Cleanliness,High,Housekeeping,20,Pending,0.06565407480278851
+2024-08-03 16:36:31.687344,Staff Behavior,Medium,Customer Service,38,In Progress,0.7213356435777702
+2024-08-17 16:36:31.687346,Food Quality,Medium,Customer Service,3,Pending,0.389836759563015
+2024-08-11 16:36:31.687347,Cleanliness,High,Housekeeping,28,Resolved,-0.9788977550996203
+2024-08-12 16:36:31.687348,Staff Behavior,High,Customer Service,56,Resolved,-0.2118196944509938
+2024-08-05 16:36:31.687350,Staff Behavior,Low,Maintenance,13,In Progress,0.7019037988136001
+2024-08-16 16:36:31.687351,Cleanliness,Low,Catering,66,Resolved,-0.30828228404946145
+2024-08-15 16:36:31.687353,Delay,High,Catering,37,Resolved,-0.929569652948953
+2024-08-10 16:36:31.687354,Staff Behavior,Medium,Catering,49,Resolved,0.49235927710454463
+2024-08-26 16:36:31.687356,Delay,Low,Maintenance,66,Resolved,0.6040765405657371
+2024-08-28 16:36:31.687357,Cleanliness,Low,Customer Service,36,Pending,-0.6788126099133829
+2024-08-19 16:36:31.687358,Delay,Medium,Operations,54,Pending,0.07468099368636238
+2024-08-06 16:36:31.687360,Damage,Low,Customer Service,26,In Progress,-0.6160891220085485
+2024-08-11 16:36:31.687361,Food Quality,Medium,Housekeeping,40,In Progress,0.4384688380882935
+2024-08-04 16:36:31.687363,Staff Behavior,Medium,Catering,43,In Progress,-0.4568990896450287
+2024-08-10 16:36:31.687364,Food Quality,Medium,Customer Service,22,Resolved,-0.36756975487333987
+2024-08-27 16:36:31.687366,Delay,High,Operations,20,Resolved,0.6899417072802028
+2024-08-10 16:36:31.687367,Staff Behavior,High,Housekeeping,8,Pending,-0.04735529558619134
+2024-08-08 16:36:31.687368,Delay,High,Maintenance,29,Pending,0.3395089024364957
+2024-08-15 16:36:31.687370,Damage,Medium,Maintenance,40,In Progress,-0.1952538985550647
+2024-08-06 16:36:31.687371,Cleanliness,Medium,Operations,30,Pending,-0.40398628561248917
+2024-08-24 16:36:31.687373,Staff Behavior,High,Housekeeping,55,Pending,0.25095612084932273
+2024-08-18 16:36:31.687374,Damage,Low,Catering,16,Pending,-0.6902848518423574
+2024-08-10 16:36:31.687376,Damage,Medium,Customer Service,46,Pending,-0.254000328866274
+2024-08-21 16:36:31.687377,Staff Behavior,Low,Housekeeping,62,Pending,-0.5819259252281554
+2024-08-05 16:36:31.687379,Delay,Low,Maintenance,7,In Progress,0.391589933881491
+2024-08-24 16:36:31.687380,Damage,Medium,Operations,45,In Progress,0.8884176766922152
+2024-08-17 16:36:31.687381,Food Quality,Medium,Operations,59,Pending,0.9910219360317327
+2024-08-05 16:36:31.687383,Damage,Low,Customer Service,56,In Progress,-0.09944637911681853
+2024-08-26 16:36:31.687384,Delay,Low,Operations,48,Resolved,-0.49493922072711105
+2024-08-28 16:36:31.687386,Delay,High,Operations,27,Pending,-0.11434125923135174
+2024-08-08 16:36:31.687387,Food Quality,High,Housekeeping,53,Resolved,0.6945388199254476
+2024-08-02 16:36:31.687389,Damage,Medium,Catering,35,In Progress,-0.5879886428959202
+2024-08-20 16:36:31.687390,Delay,High,Customer Service,51,In Progress,0.9041913033058475
+2024-08-20 16:36:31.687391,Staff Behavior,High,Housekeeping,37,Resolved,-0.316268462403698
+2024-08-13 16:36:31.687393,Cleanliness,High,Catering,57,In Progress,0.9716073189006098
+2024-08-16 16:36:31.687394,Cleanliness,High,Housekeeping,8,Pending,0.6772177750679245
+2024-08-19 16:36:31.687396,Cleanliness,Low,Housekeeping,20,Resolved,0.6171410682947807
+2024-08-22 16:36:31.687397,Damage,Medium,Operations,53,Pending,-0.36419065245343285
+2024-08-21 16:36:31.687399,Food Quality,High,Catering,12,Resolved,-0.9824455761041411
+2024-08-05 16:36:31.687400,Delay,Low,Customer Service,49,In Progress,-0.23573418234802435
+2024-08-19 16:36:31.687401,Staff Behavior,Low,Customer Service,17,Resolved,-0.39638126067461266
+2024-08-14 16:36:31.687403,Staff Behavior,Low,Catering,64,Resolved,-0.9252060191824054
+2024-08-02 16:36:31.687404,Damage,High,Operations,42,Pending,0.010730513011859344
+2024-08-25 16:36:31.687406,Cleanliness,High,Maintenance,29,In Progress,-0.19393737743452677
+2024-08-24 16:36:31.687407,Damage,Medium,Housekeeping,19,Pending,0.2691129354830495
+2024-08-17 16:36:31.687409,Food Quality,High,Operations,11,In Progress,0.2423726443881664
+2024-08-18 16:36:31.687410,Food Quality,High,Catering,50,Pending,-0.7585067282066398
+2024-08-23 16:36:31.687411,Delay,Low,Housekeeping,71,Resolved,0.9539310922532451
+2024-08-21 16:36:31.687413,Delay,Medium,Customer Service,58,Pending,-0.6261371411171062
+2024-08-22 16:36:31.687414,Food Quality,High,Maintenance,34,In Progress,-0.10945195047059086
+2024-08-13 16:36:31.687416,Food Quality,High,Customer Service,20,In Progress,-0.023764913132530152
+2024-08-04 16:36:31.687417,Food Quality,Low,Catering,50,Resolved,0.6261255944282402
+2024-08-05 16:36:31.687419,Damage,Low,Housekeeping,10,In Progress,-0.8015408078107065
+2024-08-29 16:36:31.687420,Food Quality,High,Catering,32,Pending,-0.14271144158293647
+2024-08-26 16:36:31.687421,Staff Behavior,Medium,Housekeeping,52,Resolved,0.25700434047240783
+2024-08-02 16:36:31.687423,Cleanliness,Medium,Operations,15,In Progress,-0.5696887567518889
+2024-08-26 16:36:31.687424,Food Quality,Low,Maintenance,3,In Progress,0.25493579753214557
+2024-08-25 16:36:31.687426,Cleanliness,Low,Operations,37,Pending,0.8473296750993053
+2024-08-12 16:36:31.687427,Damage,High,Operations,40,Pending,0.9950362623453499
+2024-08-23 16:36:31.687429,Cleanliness,Low,Catering,40,Resolved,-0.9350978464186486
+2024-08-15 16:36:31.687430,Damage,High,Maintenance,56,In Progress,-0.528823543510645
+2024-08-18 16:36:31.687432,Staff Behavior,Medium,Housekeeping,23,Pending,-0.3793857684166051
+2024-08-30 16:36:31.687433,Damage,Medium,Housekeeping,11,Resolved,-0.2017477991100678
+2024-08-09 16:36:31.687434,Damage,High,Customer Service,64,In Progress,-0.5154856848304652
+2024-08-11 16:36:31.687436,Delay,Low,Housekeeping,8,In Progress,-0.593024010889375
+2024-08-14 16:36:31.687437,Food Quality,Medium,Catering,56,Resolved,0.9091076848349999
+2024-08-24 16:36:31.687439,Food Quality,Low,Operations,60,Resolved,0.8370432055410357
+2024-08-06 16:36:31.687440,Staff Behavior,Medium,Operations,10,Pending,-0.9060149979937651
+2024-08-18 16:36:31.687442,Staff Behavior,High,Operations,39,In Progress,-0.3223739567903037
+2024-08-27 16:36:31.687443,Food Quality,High,Maintenance,28,In Progress,-0.18970289264318674
+2024-08-27 16:36:31.687444,Delay,High,Housekeeping,49,In Progress,-0.5219709306681133
+2024-08-25 16:36:31.687446,Food Quality,Medium,Catering,36,Resolved,0.257745793976351
+2024-08-03 16:36:31.687447,Delay,Low,Maintenance,13,Pending,0.2807614932884821
+2024-08-12 16:36:31.687449,Staff Behavior,Low,Customer Service,36,In Progress,0.7010084566571941
+2024-08-02 16:36:31.687450,Cleanliness,Low,Catering,26,Resolved,0.48173853677043565
+2024-08-19 16:36:31.687452,Staff Behavior,Medium,Catering,4,In Progress,0.08514665393191123
+2024-08-09 16:36:31.687453,Staff Behavior,Medium,Catering,64,Pending,0.3071735400888398
+2024-08-24 16:36:31.687454,Damage,Medium,Operations,38,In Progress,-0.4520224369139638
+2024-08-04 16:36:31.687456,Damage,Medium,Catering,22,Pending,0.1861123799347153
+2024-08-21 16:36:31.687457,Damage,Medium,Housekeeping,2,Pending,-0.021545490500161524
+2024-08-05 16:36:31.687459,Damage,Low,Catering,31,In Progress,-0.7333110653672592
+2024-08-12 16:36:31.687460,Delay,Medium,Operations,11,In Progress,-0.5149114468340585
+2024-08-24 16:36:31.687462,Food Quality,Medium,Catering,46,Pending,-0.41661309855682793
+2024-08-01 16:36:31.687463,Cleanliness,Low,Customer Service,62,Resolved,0.8486191341051159
+2024-08-28 16:36:31.687464,Staff Behavior,Medium,Customer Service,69,Pending,-0.5392267212282211
+2024-08-18 16:36:31.687466,Delay,Low,Operations,64,In Progress,-0.4215121943606637
+2024-08-18 16:36:31.687467,Cleanliness,Low,Housekeeping,10,In Progress,-0.2612917398211354
+2024-08-13 16:36:31.687469,Delay,High,Housekeeping,40,Resolved,0.32748547725077404
+2024-08-03 16:36:31.687470,Delay,High,Maintenance,24,Pending,-0.763523215055719
+2024-08-01 16:36:31.687472,Staff Behavior,High,Operations,44,Pending,0.9078904249875521
+2024-08-05 16:36:31.687473,Food Quality,High,Catering,60,Pending,0.731142440189529
+2024-08-11 16:36:31.687475,Damage,Medium,Operations,62,In Progress,0.15443214601790034
+2024-08-03 16:36:31.687476,Food Quality,High,Maintenance,17,Pending,0.3480757348499135
+2024-08-23 16:36:31.687477,Staff Behavior,Low,Operations,65,Resolved,-0.966679057511568
+2024-08-02 16:36:31.687479,Staff Behavior,Medium,Operations,57,In Progress,-0.3221104493031026
+2024-08-22 16:36:31.687480,Staff Behavior,High,Maintenance,55,In Progress,0.591320461322884
+2024-08-24 16:36:31.687482,Cleanliness,Low,Housekeeping,53,Pending,-0.8450340524152282
+2024-08-30 16:36:31.687484,Food Quality,Medium,Catering,56,Resolved,-0.4353723315785596
+2024-08-28 16:36:31.687485,Food Quality,Medium,Maintenance,9,In Progress,0.17059365666862258
+2024-08-18 16:36:31.687486,Delay,High,Customer Service,22,In Progress,-0.4871739446021164
+2024-08-03 16:36:31.687488,Delay,Medium,Housekeeping,13,Pending,0.8679559482890384
+2024-08-01 16:36:31.687489,Delay,Low,Customer Service,48,Pending,-0.7378827383914193
+2024-08-06 16:36:31.687491,Staff Behavior,Medium,Housekeeping,18,Resolved,0.5947887158155571
+2024-08-03 16:36:31.687492,Food Quality,Low,Catering,40,Pending,0.015897383812816468
+2024-08-14 16:36:31.687494,Staff Behavior,Medium,Catering,17,Resolved,0.500661551639912
+2024-08-06 16:36:31.687495,Cleanliness,High,Operations,15,In Progress,-0.3785693433771051
+2024-08-07 16:36:31.687496,Delay,Low,Customer Service,15,Resolved,0.028979204624077548
+2024-08-30 16:36:31.687498,Staff Behavior,Medium,Housekeeping,63,Resolved,0.7136706994463526
+2024-08-25 16:36:31.687499,Staff Behavior,Medium,Catering,39,Resolved,-0.06624380175379119
+2024-08-10 16:36:31.687501,Cleanliness,Medium,Maintenance,13,In Progress,-0.2805602761794608
+2024-08-25 16:36:31.687502,Damage,Low,Catering,32,Pending,0.07231077250547213
+2024-08-05 16:36:31.687504,Food Quality,Low,Maintenance,9,In Progress,0.43472550607273375
+2024-08-19 16:36:31.687505,Damage,Low,Housekeeping,40,Pending,-0.11287330900299453
+2024-08-18 16:36:31.687506,Delay,High,Catering,20,Resolved,0.877753950284546
+2024-08-18 16:36:31.687508,Staff Behavior,High,Catering,63,Resolved,-0.4101083519153159
+2024-08-02 16:36:31.687509,Cleanliness,Low,Housekeeping,44,Resolved,-0.049072787661759154
+2024-08-16 16:36:31.687511,Cleanliness,Medium,Catering,38,Resolved,0.5138553186828829
+2024-08-10 16:36:31.687512,Food Quality,High,Maintenance,60,Resolved,0.3782421809915164
+2024-08-15 16:36:31.687514,Damage,Low,Catering,71,Pending,0.7272821048343123
+2024-08-09 16:36:31.687515,Food Quality,Medium,Customer Service,48,Pending,0.9936183613622178
+2024-08-10 16:36:31.687516,Staff Behavior,High,Operations,18,Resolved,-0.14628334240982088
+2024-08-20 16:36:31.687518,Food Quality,Medium,Maintenance,16,In Progress,-0.7776982404333763
+2024-08-03 16:36:31.687519,Cleanliness,Medium,Customer Service,55,In Progress,-0.939168238384064
+2024-08-26 16:36:31.687521,Cleanliness,Medium,Housekeeping,39,Resolved,0.45375381227954326
+2024-08-27 16:36:31.687522,Delay,Medium,Maintenance,68,Pending,0.7480273426174313
+2024-08-28 16:36:31.687524,Delay,High,Operations,59,In Progress,-0.5585748281111627
+2024-08-12 16:36:31.687525,Staff Behavior,High,Operations,62,In Progress,-0.6831039256201881
+2024-08-11 16:36:31.687526,Damage,High,Housekeeping,13,In Progress,-0.875589816948618
+2024-08-06 16:36:31.687528,Food Quality,Low,Housekeeping,6,Resolved,0.6454058434344128
+2024-08-13 16:36:31.687529,Staff Behavior,High,Maintenance,60,In Progress,-0.3772361202148313
+2024-08-16 16:36:31.687531,Delay,Medium,Catering,14,In Progress,-0.19660621448044702
+2024-08-22 16:36:31.687532,Food Quality,High,Housekeeping,54,In Progress,0.005500383219224636
+2024-08-14 16:36:31.687534,Delay,Medium,Catering,4,In Progress,0.6789064684191015
+2024-08-17 16:36:31.687535,Food Quality,Low,Customer Service,39,Pending,0.30166644312296986
+2024-08-16 16:36:31.687536,Damage,Medium,Operations,25,Resolved,0.2301292597156226
+2024-08-30 16:36:31.687538,Staff Behavior,Medium,Catering,32,Resolved,-0.6486558000881786
+2024-08-10 16:36:31.687539,Food Quality,Medium,Operations,59,Pending,0.02637978341965952
+2024-08-09 16:36:31.687541,Cleanliness,Low,Catering,63,Pending,0.4307620343573104
+2024-08-09 16:36:31.687542,Cleanliness,High,Customer Service,38,Resolved,0.9465217660609835
+2024-08-28 16:36:31.687544,Food Quality,High,Housekeeping,53,In Progress,-0.5971873815732955
+2024-08-15 16:36:31.687545,Food Quality,Low,Customer Service,67,In Progress,-0.9809132938655467
+2024-08-08 16:36:31.687547,Food Quality,Medium,Housekeeping,28,Resolved,-0.8493971328030605
+2024-08-06 16:36:31.687548,Cleanliness,High,Housekeeping,3,In Progress,-0.24829506963604153
+2024-08-20 16:36:31.687549,Cleanliness,Low,Operations,22,Pending,0.6410892954919742
+2024-08-19 16:36:31.687551,Food Quality,High,Customer Service,38,In Progress,-0.9857158364635099
+2024-08-21 16:36:31.687552,Delay,Low,Catering,62,In Progress,-0.08653881422831944
+2024-08-15 16:36:31.687554,Delay,Medium,Customer Service,57,In Progress,-0.34153876931721094
+2024-08-23 16:36:31.687555,Damage,High,Operations,6,Resolved,-0.8950365798005449
+2024-08-25 16:36:31.687557,Staff Behavior,Low,Housekeeping,32,Pending,-0.09952742665476544
+2024-08-19 16:36:31.687558,Delay,High,Operations,10,In Progress,-0.4905025853265623
+2024-08-07 16:36:31.687559,Cleanliness,High,Maintenance,3,Resolved,-0.2962303313059871
+2024-08-03 16:36:31.687561,Delay,High,Maintenance,59,In Progress,0.41123060956858604
+2024-08-10 16:36:31.687562,Damage,High,Catering,49,Pending,0.043101967821934206
+2024-08-23 16:36:31.687564,Damage,Low,Operations,59,In Progress,-0.7507051420143733
+2024-08-05 16:36:31.687565,Staff Behavior,Medium,Catering,31,Pending,0.9228290808472781
+2024-08-03 16:36:31.687566,Delay,Low,Catering,69,In Progress,0.27182153141947674
+2024-08-27 16:36:31.687568,Cleanliness,Low,Maintenance,62,Pending,0.5317368513250631
+2024-08-05 16:36:31.687569,Cleanliness,Low,Catering,52,In Progress,-0.8415736999832584
+2024-08-23 16:36:31.687571,Food Quality,Medium,Maintenance,41,Pending,-0.9058832410799622
+2024-08-05 16:36:31.687572,Cleanliness,High,Housekeeping,31,In Progress,-0.9611038992638377
+2024-08-03 16:36:31.687574,Staff Behavior,High,Operations,22,In Progress,-0.6224119444531111
+2024-08-13 16:36:31.687575,Staff Behavior,High,Catering,4,Resolved,-0.17118320456300973
+2024-08-03 16:36:31.687576,Cleanliness,Medium,Maintenance,13,Resolved,0.8716522668056457
+2024-08-03 16:36:31.687578,Cleanliness,High,Customer Service,45,Pending,-0.0858806814684474
+2024-08-26 16:36:31.687579,Food Quality,Medium,Catering,42,In Progress,-0.4194897892549412
+2024-08-22 16:36:31.687581,Cleanliness,High,Housekeeping,49,Pending,0.12387050703932667
+2024-08-27 16:36:31.687582,Food Quality,High,Housekeeping,20,Resolved,-0.7761308437304215
+2024-08-04 16:36:31.687584,Food Quality,Low,Customer Service,54,Pending,0.2190117820099664
+2024-08-09 16:36:31.687585,Cleanliness,Medium,Maintenance,36,Pending,0.13686390866100662
+2024-08-14 16:36:31.687586,Damage,Low,Catering,1,Resolved,0.5839860668114194
+2024-08-22 16:36:31.687588,Damage,Low,Maintenance,15,In Progress,0.9733752232340482
+2024-08-30 16:36:31.687589,Food Quality,Low,Housekeeping,17,Pending,-0.49825305656777896
+2024-08-10 16:36:31.687591,Cleanliness,Medium,Maintenance,24,Resolved,0.019312901607521304
+2024-08-11 16:36:31.687592,Damage,Medium,Housekeeping,58,In Progress,0.8177308126380072
+2024-08-18 16:36:31.687594,Cleanliness,High,Maintenance,23,Resolved,0.5703797688456826
+2024-08-03 16:36:31.687595,Cleanliness,Low,Customer Service,46,Pending,-0.02518739379838486
+2024-08-15 16:36:31.687596,Cleanliness,High,Operations,8,In Progress,0.8907432992295556
+2024-08-02 16:36:31.687598,Delay,Low,Customer Service,59,In Progress,-0.8855266129663812
+2024-08-18 16:36:31.687599,Cleanliness,Medium,Customer Service,59,Resolved,0.861997239425168
+2024-08-17 16:36:31.687601,Delay,Medium,Operations,13,Resolved,-0.8989852152343869
+2024-08-28 16:36:31.687602,Food Quality,Medium,Operations,39,Resolved,0.09460948822936865
+2024-08-02 16:36:31.687603,Damage,Low,Catering,28,In Progress,0.7808818960021715
+2024-08-25 16:36:31.687605,Damage,Medium,Catering,61,In Progress,-0.47455811287739436
+2024-08-13 16:36:31.687606,Damage,Low,Customer Service,16,Pending,-0.05550300210968295
+2024-08-12 16:36:31.687608,Damage,High,Customer Service,2,In Progress,-0.35134224172606676
+2024-08-26 16:36:31.687609,Damage,Low,Housekeeping,17,Pending,0.9042878341527028
+2024-08-16 16:36:31.687611,Damage,High,Housekeeping,30,Resolved,0.6472911895061817
+2024-08-06 16:36:31.687612,Damage,Low,Catering,13,Resolved,0.4180030226527591
+2024-08-29 16:36:31.687613,Food Quality,High,Catering,13,In Progress,0.1752539732302174
+2024-08-21 16:36:31.687615,Cleanliness,Medium,Housekeeping,43,Resolved,0.6411835786482962
+2024-08-07 16:36:31.687616,Staff Behavior,High,Housekeeping,21,Resolved,-0.21546591695290584
+2024-08-01 16:36:31.687618,Delay,Medium,Maintenance,55,In Progress,-0.10489628978787624
+2024-08-13 16:36:31.687619,Staff Behavior,Medium,Maintenance,40,Pending,0.46000344216172295
+2024-08-04 16:36:31.687620,Staff Behavior,High,Housekeeping,15,In Progress,-0.2844904734125715
+2024-08-18 16:36:31.687622,Cleanliness,Low,Maintenance,52,Pending,-0.8721981159032524
+2024-08-26 16:36:31.687623,Cleanliness,Low,Operations,53,In Progress,-0.8513307822278571
+2024-08-08 16:36:31.687625,Cleanliness,Low,Catering,52,In Progress,-0.7692743973885923
+2024-08-07 16:36:31.687626,Damage,Low,Catering,30,Resolved,0.7393626466873255
+2024-08-30 16:36:31.687628,Food Quality,Low,Housekeeping,33,In Progress,-0.05554714848759135
+2024-08-09 16:36:31.687629,Damage,Medium,Customer Service,57,In Progress,0.42576473868947295
+2024-08-30 16:36:31.687630,Food Quality,Low,Housekeeping,52,Pending,-0.21418132879021345
+2024-08-13 16:36:31.687632,Food Quality,Medium,Maintenance,9,Resolved,-0.482578105168731
+2024-08-16 16:36:31.687633,Staff Behavior,Medium,Customer Service,54,Pending,-0.3056156648755761
+2024-08-14 16:36:31.687635,Staff Behavior,Medium,Maintenance,1,Pending,0.5883646906343671
+2024-08-20 16:36:31.687636,Food Quality,High,Operations,44,Resolved,0.2504322500628764
+2024-08-10 16:36:31.687638,Food Quality,High,Maintenance,9,Resolved,0.8752795599158041
+2024-08-05 16:36:31.687639,Damage,Medium,Operations,32,Resolved,0.35940955715366796
+2024-08-06 16:36:31.687640,Damage,High,Operations,15,In Progress,0.14036326350938788
+2024-08-09 16:36:31.687642,Staff Behavior,Low,Maintenance,12,Resolved,0.22039201797166896
+2024-08-04 16:36:31.687643,Cleanliness,Low,Maintenance,57,Resolved,0.8847428789368292
+2024-08-04 16:36:31.687645,Food Quality,Medium,Operations,8,Resolved,0.5764018597334122
+2024-08-14 16:36:31.687646,Damage,Low,Customer Service,27,Pending,-0.9519175252671244
+2024-08-18 16:36:31.687648,Staff Behavior,Medium,Operations,62,Pending,0.06827939227139446
+2024-08-30 16:36:31.687649,Damage,Medium,Catering,12,In Progress,0.37667682309312966
+2024-08-29 16:36:31.687650,Food Quality,Low,Operations,65,Pending,0.4973969568783101
+2024-08-22 16:36:31.687652,Food Quality,High,Customer Service,42,In Progress,-0.5737157613721267
+2024-08-28 16:36:31.687653,Delay,Low,Catering,62,Pending,0.7343547089027045
+2024-08-30 16:36:31.687655,Cleanliness,Low,Housekeeping,11,Resolved,0.9116862943503274
+2024-08-10 16:36:31.687656,Delay,Medium,Housekeeping,43,Pending,-0.5265693883102605
+2024-08-15 16:36:31.687658,Staff Behavior,Medium,Customer Service,17,In Progress,0.7652309150344916
+2024-08-08 16:36:31.687659,Damage,Medium,Operations,32,Pending,-0.8060424749678092
+2024-08-25 16:36:31.687661,Staff Behavior,Medium,Maintenance,40,Resolved,-0.8885863277695096
+2024-08-03 16:36:31.687662,Food Quality,High,Customer Service,23,In Progress,-0.7415523997945013
+2024-08-14 16:36:31.687663,Delay,High,Catering,56,Resolved,-0.884517841065928
+2024-08-26 16:36:31.687665,Delay,High,Catering,6,Resolved,0.6900244743115518
+2024-08-26 16:36:31.687666,Delay,Medium,Housekeeping,50,In Progress,-0.8818997110834561
+2024-08-25 16:36:31.687668,Staff Behavior,Medium,Catering,37,Resolved,-0.456671617272689
+2024-08-28 16:36:31.687669,Food Quality,Medium,Customer Service,64,Resolved,-0.7924873129282872
+2024-08-10 16:36:31.687671,Damage,High,Catering,54,Pending,-0.4091559273724701
+2024-08-08 16:36:31.687672,Damage,Medium,Customer Service,49,Resolved,-0.818881064798159
+2024-08-26 16:36:31.687673,Staff Behavior,Low,Maintenance,11,Resolved,0.33600650148602806
+2024-08-10 16:36:31.687675,Delay,Low,Housekeeping,49,Resolved,-0.7333463673148497
+2024-08-26 16:36:31.687676,Cleanliness,Medium,Catering,21,Resolved,0.7036918516777757
+2024-08-21 16:36:31.687678,Staff Behavior,Low,Customer Service,66,In Progress,0.634382101453282
+2024-08-21 16:36:31.687679,Staff Behavior,Low,Operations,63,Pending,-0.9726766290587812
+2024-08-12 16:36:31.687681,Food Quality,High,Housekeeping,28,Resolved,0.7914527110302292
