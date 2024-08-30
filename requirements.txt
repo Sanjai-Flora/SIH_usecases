@@ -11,3 +11,4 @@ yfinance
 Faker
 networkx
 requests
+numpy<2.0
