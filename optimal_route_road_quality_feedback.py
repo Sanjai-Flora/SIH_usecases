@@ -108,10 +108,19 @@ mumbai_coords = {
 }
 
 # Create tabs
-tab1, tab2, tab3 = st.tabs(["🗺️ Route Planner", "📊 Road Feedback", "ℹ️ How It Works"])
+tab1, tab2 = st.tabs(["🗺️ Route Planner", "📊 Road Feedback"])
 
 with tab1:
     st.header("Route Planner")
+    st.markdown("""
+    Welcome to the Route Planner! This tool helps you navigate Indian cities while considering road quality.
+    Here's how to use it:
+    1. Select a city from the dropdown menu.
+    2. Choose your start and end locations from popular landmarks in the city.
+    3. The app will calculate the optimal route based on distance and road quality.
+    4. The route will be displayed on the map with a dark blue line.
+    5. Green and red markers indicate the start and end points respectively.
+    """)
     
     selected_city = st.selectbox("Select a city", list(cities_and_locations.keys()))
     
@@ -137,26 +146,16 @@ with tab1:
                     start_coords = ox.geocode(f"{start_location}, {selected_city}")
                     end_coords = ox.geocode(f"{end_location}, {selected_city}")
 
-                st.write(f"Start coordinates: {start_coords}")
-                st.write(f"End coordinates: {end_coords}")
-
                 orig_node = ox.distance.nearest_nodes(graph, start_coords[1], start_coords[0])
                 dest_node = ox.distance.nearest_nodes(graph, end_coords[1], end_coords[0])
 
-                st.write(f"Origin node: {orig_node}")
-                st.write(f"Destination node: {dest_node}")
-
                 route = nx.shortest_path(graph, orig_node, dest_node, weight='length')
                 
-                st.write(f"Route found with {len(route)} nodes")
-
                 # Create route geometry
                 route_coords = []
                 for node in route:
                     point = nodes.loc[node, 'geometry']
                     route_coords.append((point.x, point.y))
-                
-                st.write("Route coordinates (first 5):", route_coords[:5], "...")
 
                 route_df = pd.DataFrame(route_coords, columns=['lon', 'lat'])
 
@@ -208,8 +207,13 @@ with tab1:
 with tab2:
     st.header("Road Feedback")
     st.markdown("""
-    Help improve our data by providing feedback on road conditions.
-    First, select a route, then choose a major road along that route to rate.
+    Your feedback helps improve route suggestions for all users. Here's how to provide feedback:
+    1. Select the start and end locations of a route you're familiar with.
+    2. Choose a major road along that route from the dropdown menu.
+    3. Rate the road's smoothness and safety on a scale of 1 to 5.
+    4. Submit your feedback to contribute to our community-driven map of road conditions.
+
+    Your input helps create more accurate and safer route suggestions for everyone!
     """)
     
     # Select start and end locations for the route
@@ -281,29 +285,6 @@ with tab2:
     else:
         st.error("Start and end locations must be different.")
 
-with tab3:
-    st.header("How It Works")
-    st.markdown("""
-    Welcome to the India Road Explorer! This app helps you navigate Indian cities while considering road quality. Here's a breakdown of its features:
-
-    1. **🗺️ Route Planning**: 
-       - Choose a city and select your start and end points from popular locations.
-       - Our algorithm calculates the optimal route based on distance and road quality.
-
-    2. **📊 Road Quality Visualization**: 
-       - Routes are displayed on an interactive map.
-       - Dark blue lines indicate the suggested path.
-
-    3. **🔄 Feedback System**: 
-       - Rate road segments for smoothness and safety.
-       - Your input helps improve route suggestions for all users.
-
-    4. **⚡ Real-time Updates**: 
-       - Submitted feedback immediately affects route calculations.
-       - This ensures you always get the most current route based on the latest road conditions.
-
-    **Example**: If you rate a road segment as very smooth (5) and very safe (5), future routes will be more likely to include this segment. This could alter the suggested path between two points, potentially finding a smoother or safer route that wasn't prioritized before.
-
-    By using this app and providing feedback, you're contributing to a community-driven map of road conditions in Indian cities. Together, we can make navigation smoother and safer for everyone!
-    """)
-
+# Add a footer
+st.markdown("---")
+st.markdown("© 2024 India Road Explorer. All rights reserved.")
